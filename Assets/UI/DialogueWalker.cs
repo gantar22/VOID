@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -9,6 +10,7 @@ public class DiagloueConfig : ScriptableObject
     [SerializeField] public float inter_spoken_wait_time = .1f;
     [SerializeField] public float time_between_spoken_and_choices = .2f;
     [SerializeField] public float inter_choice_wait_time = .1f;
+    [SerializeField] public float inter_char_time = .05f;
 }
 
 public class DialogueWalker : MonoBehaviour
@@ -31,9 +33,10 @@ public class DialogueWalker : MonoBehaviour
         }
         foreach (var spoken in currentText.spoken)
         {
+            yield return TypewriterText(
             Instantiate(spokenPrefab.gameObject, Vector3.zero, Quaternion.identity, textHolder.transform)
             
-            .GetComponent<TMPro.TMP_Text>().text = spoken.text;
+            .GetComponent<TMPro.TMP_Text>(),spoken.text);
             
             yield return new WaitForSeconds(config.inter_spoken_wait_time);
         }
@@ -48,5 +51,24 @@ public class DialogueWalker : MonoBehaviour
         
         
         yield return null;
+    }
+
+
+    IEnumerator TypewriterText(TMPro.TMP_Text text, string line)
+    {
+        text.maxVisibleCharacters = 0;
+        string[] words = line.Split(' ');
+        for(int i = 0;i < words.Length;i++)
+        {
+            text.text += words[i];
+            for (int j = 0; j < words[i].Length; j++)
+            {
+                text.maxVisibleCharacters++;
+                yield return new WaitForSeconds(config.inter_char_time);
+            }
+
+            yield return null; //unnecessary but I hate loops
+        }
+
     }
 }
