@@ -38,8 +38,67 @@
             <e p="StoryVarSynchronizer.cs" t="Include" />
           </e>
         </e>
+        <e p="New folder" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="Architects_Daughter" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Caveat_Brush" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Covered_By_Your_Grace" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Indie_Flower" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Kalam" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Neucha" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Permanent_Marker" t="Include">
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="Sue_Ellen_Francisco" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Stories" t="Include">
           <e p="VOID.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="UI" t="Include">
+          <e p="wavy_text.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
