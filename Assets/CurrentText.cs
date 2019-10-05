@@ -5,7 +5,7 @@ using UnityEngine;
 
 
 
-public enum flags { };
+public enum flags { obeyed, playing0, playing1, playing2 };
 
 
 [System.Serializable]
@@ -34,4 +34,4 @@ public class CurrentText : ScriptableObject
     public Line[] spoken;
     public Choice[] choices;
 
-}
+} 

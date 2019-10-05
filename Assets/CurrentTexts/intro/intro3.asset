@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0815ec498e3bf4a9d94343e661f3c2, type: 3}
+  m_Name: intro3
+  m_EditorClassIdentifier: 
+  on_enter:
+    m_PersistentCalls:
+      m_Calls: []
+  on_exit:
+    m_PersistentCalls:
+      m_Calls: []
+  spoken:
+  - text: NEVER. I WILL NEVER LEAVE.
+  - text: GO. FEED US.
+  choices:
+  - choice: I won't.
+    dest: {fileID: 11400000, guid: c55bc94a8da1d7a43ad55c4bc07e8da8, type: 2}
+    required: 
+    set_true: 
+    set_false: 
+  - choice: What do you want?
+    dest: {fileID: 11400000, guid: eab5426289b79104e83633af4190e2f5, type: 2}
+    required: 
+    set_true: 
+    set_false: 

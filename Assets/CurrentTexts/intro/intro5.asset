@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0815ec498e3bf4a9d94343e661f3c2, type: 3}
+  m_Name: intro5
+  m_EditorClassIdentifier: 
+  on_enter:
+    m_PersistentCalls:
+      m_Calls: []
+  on_exit:
+    m_PersistentCalls:
+      m_Calls: []
+  spoken:
+  - text: WE ARE THE SAME.
+  - text: 'YOU ARE NOTHING. WITHOUT ME. '
+  - text: FEED US. OR ELSE.
+  choices:
+  - choice: Alright...
+    dest: {fileID: 11400000, guid: b75cd8eb93be29548862a26d7d32e0e2, type: 2}
+    required: 
+    set_true: 00000000
+    set_false: 
+  - choice: Or else what?
+    dest: {fileID: 11400000, guid: 2ffc1f21853abb74fa14a869f832f9c3, type: 2}
+    required: 
+    set_true: 
+    set_false: 

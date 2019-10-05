@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0815ec498e3bf4a9d94343e661f3c2, type: 3}
+  m_Name: menu
+  m_EditorClassIdentifier: 
+  on_enter:
+    m_PersistentCalls:
+      m_Calls: []
+  on_exit:
+    m_PersistentCalls:
+      m_Calls: []
+  spoken:
+  - text: You search for some way to satisfy the void...
+  choices:
+  - choice: Go to X
+    dest: {fileID: 0}
+    required: 
+    set_true: 01000000
+    set_false: 
+  - choice: Go to Y
+    dest: {fileID: 0}
+    required: 
+    set_true: 02000000
+    set_false: 
+  - choice: Look for someone.
+    dest: {fileID: 0}
+    required: 
+    set_true: 03000000
+    set_false: 
