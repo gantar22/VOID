@@ -8,34 +8,55 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Cradle" t="Include">
-          <e p="Editor" t="Include">
-            <e p="ThirdParty" t="Include">
-              <e p="PhantomJS" t="Include">
-                <e p="Install.cs" t="Include" />
-                <e p="third-party.txt" t="Include" />
-              </e>
-            </e>
-          </e>
-          <e p="Examples" t="Include">
-            <e p="Clockwork" t="Include">
-              <e p="Clockwork.cs" t="Include" />
-            </e>
-          </e>
-          <e p="Players" t="Include">
-            <e p="TwineTextPlayer" t="Include">
-              <e p="Script" t="Include">
-                <e p="Editor" t="Include">
-                  <e p="TwineTextElementEditor.cs" t="Include" />
+          <e p="Cradle" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ThirdParty" t="Include">
+                <e p="PhantomJS" t="Include">
+                  <e p="Install.cs" t="Include" />
+                  <e p="third-party.txt" t="Include" />
                 </e>
-                <e p="TwineTextElement.cs" t="Include" />
-                <e p="TwineTextPlayer.cs" t="Include" />
-                <e p="WrapLayoutGroup.cs" t="Include" />
-                <e p="WrapLineBreak.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Examples" t="Include">
+              <e p="Clockwork" t="Include">
+                <e p="Clockwork.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Players" t="Include">
+              <e p="TwineTextPlayer" t="Include">
+                <e p="Script" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="TwineTextElementEditor.cs" t="Include" />
+                  </e>
+                  <e p="TwineTextElement.cs" t="Include" />
+                  <e p="TwineTextPlayer.cs" t="Include" />
+                  <e p="WrapLayoutGroup.cs" t="Include" />
+                  <e p="WrapLineBreak.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Utilities" t="Include">
+              <e p="StoryVarSynchronizer.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Cradle-TMPro" t="Include">
+          <e p="Assets" t="Include">
+            <e p="Cradle" t="Include">
+              <e p="Players" t="Include">
+                <e p="TwineTMProPlayer" t="Include">
+                  <e p="Script" t="Include">
+                    <e p="TwineTMProLinkHandler.cs" t="Include" />
+                    <e p="TwineTMProPlayer.cs" t="Include" />
+                    <e p="TwineTMProStyle.cs" t="Include" />
+                    <e p="TwineTMProStyleSheet.cs" t="Include" />
+                  </e>
+                </e>
               </e>
             </e>
           </e>
-          <e p="Utilities" t="Include">
-            <e p="StoryVarSynchronizer.cs" t="Include" />
+          <e p="ProjectSettings" t="Include">
+            <e p="ProjectVersion.txt" t="Include" />
           </e>
         </e>
         <e p="New folder" t="Include">

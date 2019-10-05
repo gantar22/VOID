@@ -2,7 +2,430 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156022b8-ca9e-4457-a38f-f03e1d165ffd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Cradle" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cradle-TMPro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Color Gradients.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Color Gradients/Blue to Purple - Vertical.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Color Gradients/Blue to Purple - Vertical.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Color Gradients/Dark to Light Green - Vertical.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Color Gradients/Dark to Light Green - Vertical.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Color Gradients/Light to Dark Green - Vertical.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Color Gradients/Light to Dark Green - Vertical.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Color Gradients/Yellow to Orange - Vertical.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Color Gradients/Yellow to Orange - Vertical.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Materials/Crate - Surface Shader Scene.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Materials/Crate - Surface Shader Scene.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Materials/Ground - Logo Scene.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Materials/Ground - Logo Scene.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Materials/Ground - Surface Shader Scene.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Materials/Ground - Surface Shader Scene.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Materials/Small Crate_diffuse.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Materials/Small Crate_diffuse.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Prefabs/Text Popup.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Prefabs/Text Popup.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Prefabs/TextMeshPro - Prefab 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Prefabs/TextMeshPro - Prefab 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Prefabs/TextMeshPro - Prefab 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Prefabs/TextMeshPro - Prefab 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Anton SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Anton SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Anton SDF - Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Anton SDF - Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Anton SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Anton SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Bangers SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Bangers SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Bangers SDF - Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Bangers SDF - Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Bangers SDF Glow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Bangers SDF Glow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Bangers SDF Logo.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Bangers SDF Logo.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Bangers SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/LiberationSans SDF - Overlay.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/LiberationSans SDF - Overlay.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/LiberationSans SDF - Soft Mask.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/LiberationSans SDF - Soft Mask.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Roboto-Bold SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Roboto-Bold SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Roboto-Bold SDF - Surface.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Roboto-Bold SDF - Surface.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Sprite Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Sprite Assets/DropCap Numbers.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Resources/Sprite Assets/DropCap Numbers.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/01-  Single Line TextMesh Pro.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/01-  Single Line TextMesh Pro.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/02 - Multi-line TextMesh Pro.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/02 - Multi-line TextMesh Pro.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/03 - Line Justification.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/03 - Line Justification.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/04 - Word Wrapping.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/04 - Word Wrapping.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/05 - Style Tags.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/05 - Style Tags.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/06 - Extra Rich Text Examples.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/06 - Extra Rich Text Examples.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/07 - Superscript &amp; Subscript Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/07 - Superscript &amp; Subscript Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/08 - Improved Text Alignment.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/08 - Improved Text Alignment.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/09 - Margin Tag Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/09 - Margin Tag Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/10 - Bullets &amp; Numbered List Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/10 - Bullets &amp; Numbered List Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/11 - The Style Tag.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/11 - The Style Tag.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/12 - Link Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/12 - Link Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/12a - Text Interactions.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/12a - Text Interactions.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/13 - Soft Hyphenation.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/13 - Soft Hyphenation.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/14 - Multi Font &amp; Sprites.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/14 - Multi Font &amp; Sprites.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/15 - Inline Graphics &amp; Sprites.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/15 - Inline Graphics &amp; Sprites.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/16 - Linked text overflow mode example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/16 - Linked text overflow mode example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/17 - Old Computer Terminal.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/17 - Old Computer Terminal.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/18 - ScrollRect &amp; Masking &amp; Layout.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/18 - ScrollRect &amp; Masking &amp; Layout.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/19 - Masking Texture &amp; Soft Mask.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/19 - Masking Texture &amp; Soft Mask.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/20 - Input Field with Scrollbar.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/20 - Input Field with Scrollbar.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/21 - Script Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/21 - Script Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/22 - Basic Scripting Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/22 - Basic Scripting Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/23 - Animating Vertex Attributes.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/23 - Animating Vertex Attributes.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/24 - Surface Shader Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/24 - Surface Shader Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/25 - TextMeshPro Title.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/25 - TextMeshPro Title.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/Benchmark (Floating Text).unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/Benchmark (Floating Text).unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/Benchmark (Point Sizes).unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/Benchmark (Point Sizes).unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/Benchmark (Script).unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/Benchmark (Script).unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/Benchmark (Shader Perf).unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/Benchmark (Shader Perf).unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/Distance Field Shader Check.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scenes/Distance Field Shader Check.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/Benchmark01.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/Benchmark01.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/Benchmark01_UGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/Benchmark01_UGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/Benchmark02.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/Benchmark02.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/Benchmark03.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/Benchmark03.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/Benchmark04.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/Benchmark04.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/CameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/CameraController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/ChatController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/ChatController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/EnvMapAnimator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/EnvMapAnimator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/ObjectSpin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/ObjectSpin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/ShaderPropAnimator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/ShaderPropAnimator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/SimpleScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/SimpleScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/SkewTextExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/SkewTextExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_DigitValidator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_DigitValidator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_ExampleScript_01.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_ExampleScript_01.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_FrameRateCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_FrameRateCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_TextEventCheck.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_TextEventCheck.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_TextEventHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_TextEventHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_TextInfoDebugTool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_TextInfoDebugTool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_TextSelector_A.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_TextSelector_A.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_TextSelector_B.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_TextSelector_B.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_UiFrameRateCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMP_UiFrameRateCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMPro_InstructionOverlay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TMPro_InstructionOverlay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TeleType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TeleType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TextConsoleSimulator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TextConsoleSimulator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TextMeshProFloatingText.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TextMeshProFloatingText.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TextMeshSpawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/TextMeshSpawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/VertexColorCycler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/VertexColorCycler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/VertexJitter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/VertexJitter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/VertexShakeA.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/VertexShakeA.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/VertexShakeB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/VertexShakeB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/VertexZoom.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/VertexZoom.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/WarpTextExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Scripts/WarpTextExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Sprites/DropCap Numbers.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Sprites/DropCap Numbers.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Brushed Metal 3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Brushed Metal 3.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Engraved Wall Normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Engraved Wall Normal.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Engraved Wall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Engraved Wall.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Floor Cement.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Floor Cement.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Floor Tiles 1 - diffuse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Floor Tiles 1 - diffuse.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Floor Tiles 1 - normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Floor Tiles 1 - normal.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Fruit Jelly (B&amp;W).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Fruit Jelly (B&amp;W).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Gradient Diagonal (Color).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Gradient Diagonal (Color).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Gradient Horizontal (Color).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Gradient Horizontal (Color).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Gradient Vertical (Color).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Gradient Vertical (Color).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Mask Zig-n-Zag.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Mask Zig-n-Zag.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Sand Normal Map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Sand Normal Map.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Small Crate_diffuse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Small Crate_diffuse.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Small Crate_normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Small Crate_normal.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Stainless 03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Stainless 03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Text Overflow - Linked Text Image 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Text Overflow - Linked Text Image 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Text Overflow - Linked Text UI Screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Text Overflow - Linked Text UI Screenshot.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Wipe Pattern - Circle.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Wipe Pattern - Circle.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Wipe Pattern - Diagonal.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Wipe Pattern - Diagonal.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Wipe Pattern - Radial Double.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Wipe Pattern - Radial Double.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Wipe Pattern - Radial Quad.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Examples/Textures/Wipe Pattern - Radial Quad.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Anton OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Anton OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Anton.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Anton.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Bangers - OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Bangers - OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Bangers.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Bangers.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Oswald-Bold - OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Oswald-Bold - OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Oswald-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Fonts/Oswald-Bold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/TMPro_DarkSkin.guiskin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/TMPro_DarkSkin.guiskin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/TMPro_LightSkin.guiskin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/TMPro_LightSkin.guiskin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area 85 Dark.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area 85 Dark.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Dark (LEFT).psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Dark (LEFT).psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Dark.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Dark.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Light (LEFT).psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Light (LEFT).psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Medium (LEFT).psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Medium (LEFT).psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Medium.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Box Area Medium.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Square Box Area (40 Grey).psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Square Box Area (40 Grey).psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Square Box Area (85 Grey).psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/Square Box Area (85 Grey).psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignBaseLine.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignBaseLine.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignBaseLine_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignBaseLine_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignBottom.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignBottom.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignBottom_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignBottom_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCapLine.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCapLine.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCapLine_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCapLine_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCenter.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCenter.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCenterGeo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCenterGeo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCenterGeo_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCenterGeo_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCenter_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignCenter_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignFlush.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignFlush.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignFlush_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignFlush_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignJustified.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignJustified.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignJustified_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignJustified_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignLeft.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignLeft.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignLeft_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignLeft_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignMidLine.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignMidLine.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignMiddle.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignMiddle.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignMiddle_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignMiddle_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignMidline_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignMidline_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignRight.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignRight.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignRight_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignRight_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignTop.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignTop.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignTop_Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/btn_AlignTop_Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/progress bar (Light).psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/progress bar (Light).psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/progress bar.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/GUISkins/Textures/progress bar.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos/TMP - Dropdown Icon.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos/TMP - Dropdown Icon.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos/TMP - Font Asset Icon.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos/TMP - Font Asset Icon.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos/TMP - Input Field Icon.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos/TMP - Input Field Icon.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos/TMP - Text Component Icon.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos/TMP - Text Component Icon.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos/TextMeshPro Inline Graphics icon.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Gizmos/TextMeshPro Inline Graphics icon.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/32 Bit Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/32 Bit Plugins/TMPro_Plugin.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/32 Bit Plugins/TMPro_Plugin.bundle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/32 Bit Plugins/TMPro_Plugin.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/32 Bit Plugins/TMPro_Plugin.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/64 Bit Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/64 Bit Plugins/TMPro_Plugin.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/64 Bit Plugins/TMPro_Plugin.bundle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/64 Bit Plugins/TMPro_Plugin.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/64 Bit Plugins/TMPro_Plugin.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/Editor/TextMeshPro-1.0.55.2017.1.0b12-Editor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/Editor/TextMeshPro-1.0.55.2017.1.0b12-Editor.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/Runtime DLL.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-1.0.55.2017.1.0b12.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-1.0.55.2017.1.0b12.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/TextMeshPro-1.0.55.2017.1.0b12.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/TextMeshPro-1.0.55.2017.1.0b12.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/vcomp120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Plugins/vcomp120.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Sprite Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Sprite Assets/Default Sprite Asset.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Sprite Assets/Default Sprite Asset.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Style Sheets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Style Sheets/TMP Default Style Sheet.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/Style Sheets/TMP Default Style Sheet.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Sprites/Default Sprite Asset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Sprites/Default Sprite Asset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Sprites/EmojiOne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/User Guide.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/User Guide/TextMesh Pro User Guide 2016.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/User Guide/TextMesh Pro User Guide 2016.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cradle/Cradle/Examples/Clockwork/Clockwork.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cradle/Cradle/Examples/Clockwork/Clockwork.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,35 +480,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Cradle/Players/TwineTextPlayer/Script/TwineTextPlayer.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/Cradle/Players/TwineTMProPlayer/Script/TwineTMProPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="123">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="32" />
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="37" />
               <folding>
-                <marker date="1570293566714" expanded="false" signature="6:206" ph="..." />
-                <marker date="1570293566714" expanded="true" signature="232:5326" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="301:5324" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="640:1658" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="1269:1457" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="1678:1865" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="1753:1861" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="1869:1905" ph="/* ..................... ... */" />
-                <marker date="1570293566714" expanded="true" signature="1939:2206" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="2106:2202" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="2236:2383" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="2434:2454" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="2497:2570" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="2634:2913" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="2822:2909" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="2962:5068" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="3624:4083" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="3705:4078" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="3769:4072" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="4116:4597" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="4479:4521" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="4630:4808" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="4842:5064" ph="{...}" />
-                <marker date="1570293566714" expanded="true" signature="5135:5321" ph="{...}" />
+                <marker date="1570302134833" expanded="false" signature="6:238" ph="..." />
+                <marker date="1570302134833" expanded="true" signature="264:4626" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="334:4624" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="562:1257" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="709:923" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="1037:1154" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="1277:1421" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="1352:1417" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="1425:1461" ph="/* ..................... ... */" />
+                <marker date="1570302134833" expanded="true" signature="1499:1766" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="1666:1762" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="1796:1837" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="1884:1977" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="2006:3538" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="2192:3505" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="2273:2465" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="2367:2459" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="2495:2659" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="2693:2996" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="2781:2990" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="3026:3245" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="3080:3239" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="3333:3493" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="3622:4258" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="3702:4254" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="4325:4413" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="4437:4466" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="4500:4542" ph="{...}" />
+                <marker date="1570302134833" expanded="true" signature="4581:4621" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -93,12 +521,19 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>WordTemplate</find>
+      <find>text</find>
+      <find>textUI</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets/Cradle-TMPro" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/UI/wavy_text.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Cradle/Players/TwineTextPlayer/Script/TwineTextPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/Cradle/Players/TwineTMProPlayer/Script/TwineTMProPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C89C971-D435-4E7E-BE36-3FE2CA0E2628/f6/7334bab1/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Stories/VOID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C89C971-D435-4E7E-BE36-3FE2CA0E2628/c8/6a8818c6/__DynamicallyInvokableAttribute.cs" root0="SKIP_HIGHLIGHTING" />
@@ -110,7 +545,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1440" />
@@ -174,12 +609,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570296376846</updated>
-      <workItem from="1570296386767" duration="3039000" />
+      <workItem from="1570296386767" duration="3654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3039000" />
+    <option name="totallyTimeSpent" value="3654000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -191,7 +626,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -295,31 +730,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/Cradle/Players/TwineTMProPlayer/Script/TwineTMProPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="37" />
           <folding>
-            <marker date="1570293566714" expanded="false" signature="6:206" ph="..." />
-            <marker date="1570293566714" expanded="true" signature="232:5326" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="301:5324" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="640:1658" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="1269:1457" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="1678:1865" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="1753:1861" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="1869:1905" ph="/* ..................... ... */" />
-            <marker date="1570293566714" expanded="true" signature="1939:2206" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="2106:2202" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="2236:2383" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="2434:2454" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="2497:2570" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="2634:2913" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="2822:2909" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="2962:5068" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="3624:4083" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="3705:4078" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="3769:4072" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="4116:4597" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="4479:4521" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="4630:4808" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="4842:5064" ph="{...}" />
-            <marker date="1570293566714" expanded="true" signature="5135:5321" ph="{...}" />
+            <marker date="1570302134833" expanded="false" signature="6:238" ph="..." />
+            <marker date="1570302134833" expanded="true" signature="264:4626" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="334:4624" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="562:1257" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="709:923" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="1037:1154" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="1277:1421" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="1352:1417" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="1425:1461" ph="/* ..................... ... */" />
+            <marker date="1570302134833" expanded="true" signature="1499:1766" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="1666:1762" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="1796:1837" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="1884:1977" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="2006:3538" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="2192:3505" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="2273:2465" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="2367:2459" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="2495:2659" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="2693:2996" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="2781:2990" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="3026:3245" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="3080:3239" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="3333:3493" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="3622:4258" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="3702:4254" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="4325:4413" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="4437:4466" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="4500:4542" ph="{...}" />
+            <marker date="1570302134833" expanded="true" signature="4581:4621" ph="{...}" />
           </folding>
         </state>
       </provider>
