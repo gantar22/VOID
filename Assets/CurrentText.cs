@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Events;
 using UnityEngine;
 
 
@@ -28,7 +29,8 @@ public struct Choice {
 [CreateAssetMenu(menuName = "Text")]
 public class CurrentText : ScriptableObject
 {
-
+    public UnityEvent on_enter;
+    public UnityEvent on_exit;
     public Line[] spoken;
     public Choice[] choices;
 
