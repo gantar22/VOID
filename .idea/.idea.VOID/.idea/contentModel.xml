@@ -4,61 +4,9 @@
     <e p="C:\Users\Martin-Lof\.Rider2018.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Martin-Lof\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_VOID.1143370442.00" t="ExcludeRecursive" />
     <e p="C:\Users\Martin-Lof\Documents\projects\VOID" t="IncludeRecursive">
-      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Cradle" t="Include">
-          <e p="Cradle" t="Include">
-            <e p="Editor" t="Include">
-              <e p="ThirdParty" t="Include">
-                <e p="PhantomJS" t="Include">
-                  <e p="Install.cs" t="Include" />
-                  <e p="third-party.txt" t="Include" />
-                </e>
-              </e>
-            </e>
-            <e p="Examples" t="Include">
-              <e p="Clockwork" t="Include">
-                <e p="Clockwork.cs" t="Include" />
-              </e>
-            </e>
-            <e p="Players" t="Include">
-              <e p="TwineTextPlayer" t="Include">
-                <e p="Script" t="Include">
-                  <e p="Editor" t="Include">
-                    <e p="TwineTextElementEditor.cs" t="Include" />
-                  </e>
-                  <e p="TwineTextElement.cs" t="Include" />
-                  <e p="TwineTextPlayer.cs" t="Include" />
-                  <e p="WrapLayoutGroup.cs" t="Include" />
-                  <e p="WrapLineBreak.cs" t="Include" />
-                </e>
-              </e>
-            </e>
-            <e p="Utilities" t="Include">
-              <e p="StoryVarSynchronizer.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-        <e p="Cradle-TMPro" t="Include">
-          <e p="Assets" t="Include">
-            <e p="Cradle" t="Include">
-              <e p="Players" t="Include">
-                <e p="TwineTMProPlayer" t="Include">
-                  <e p="Script" t="Include">
-                    <e p="TwineTMProLinkHandler.cs" t="Include" />
-                    <e p="TwineTMProPlayer.cs" t="Include" />
-                    <e p="TwineTMProStyle.cs" t="Include" />
-                    <e p="TwineTMProStyleSheet.cs" t="Include" />
-                  </e>
-                </e>
-              </e>
-            </e>
-          </e>
-          <e p="ProjectSettings" t="Include">
-            <e p="ProjectVersion.txt" t="Include" />
-          </e>
-        </e>
+        <e p="CurrentText.cs" t="Include" />
         <e p="New folder" t="Include">
           <e p="Fonts" t="Include">
             <e p="Architects_Daughter" t="Include">
@@ -88,7 +36,8 @@
           </e>
         </e>
         <e p="Stories" t="Include">
-          <e p="VOID.cs" t="Include" />
+          <e p="these.cs" t="Include" />
+          <e p="those.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
@@ -119,6 +68,7 @@
           </e>
         </e>
         <e p="UI" t="Include">
+          <e p="DialogueWalker.cs" t="Include" />
           <e p="wavy_text.cs" t="Include" />
         </e>
       </e>
