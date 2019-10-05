@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Martin-Lof\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Martin-Lof\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_VOID.1143370442.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Martin-Lof\Documents\projects\VOID" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Cradle" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ThirdParty" t="Include">
+              <e p="PhantomJS" t="Include">
+                <e p="Install.cs" t="Include" />
+                <e p="third-party.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Examples" t="Include">
+            <e p="Clockwork" t="Include">
+              <e p="Clockwork.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Players" t="Include">
+            <e p="TwineTextPlayer" t="Include">
+              <e p="Script" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="TwineTextElementEditor.cs" t="Include" />
+                </e>
+                <e p="TwineTextElement.cs" t="Include" />
+                <e p="TwineTextPlayer.cs" t="Include" />
+                <e p="WrapLayoutGroup.cs" t="Include" />
+                <e p="WrapLineBreak.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Utilities" t="Include">
+            <e p="StoryVarSynchronizer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Stories" t="Include">
+          <e p="VOID.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="VOID.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
