@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156022b8-ca9e-4457-a38f-f03e1d165ffd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VOID/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VOID/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cradle-TMPro" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/Color Gradients.meta" beforeDir="false" />
@@ -426,7 +427,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/User Guide/TextMesh Pro User Guide 2016.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/TextMesh Pro/User Guide/TextMesh Pro User Guide 2016.pdf.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Cradle/Cradle/Examples/Clockwork/Clockwork.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cradle/Cradle/Examples/Clockwork/Clockwork.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Stories/these.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Stories/these.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -545,13 +545,43 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PuttPlot/new/PuttPlot-UnityVR/Assets/Code/DialogueSystem/Frame.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
               <caret line="22" column="44" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="44" />
               <folding>
                 <element signature="e#0#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UI/DialogueWalker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <marker date="1570311942689" expanded="false" signature="6:78" ph="..." />
+                <marker date="1570311942689" expanded="true" signature="145:524" ph="{...}" />
+                <marker date="1570311942689" expanded="true" signature="406:522" ph="{...}" />
+                <marker date="1570311942689" expanded="true" signature="447:480" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/CurrentText.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <marker date="1570311716038" expanded="false" signature="6:78" ph="..." />
+                <marker date="1570311716038" expanded="true" signature="148:192" ph="{...}" />
+                <marker date="1570311716038" expanded="true" signature="237:325" ph="{...}" />
+                <marker date="1570311716038" expanded="true" signature="407:468" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -581,17 +611,19 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets/Cradle-TMPro" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/UI/wavy_text.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../PuttPlot/new/PuttPlot-UnityVR/Assets/Code/DialogueSystem/DialogueController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../PuttPlot/new/PuttPlot-UnityVR/Assets/Code/DialogueSystem/Frame.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/Cradle/Players/TwineTMProPlayer/Script/TwineTMProPlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Stories/those.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C89C971-D435-4E7E-BE36-3FE2CA0E2628/f6/7334bab1/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C89C971-D435-4E7E-BE36-3FE2CA0E2628/c8/6a8818c6/__DynamicallyInvokableAttribute.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../PuttPlot/PuttPlot-UnityVR/Assets/Code/DialogueSystem/DialogueChoice.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CurrentText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/wavy_text.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Cradle-TMPro/Assets/Cradle/Players/TwineTMProPlayer/Script/TwineTMProPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Stories/those.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/DialogueWalker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Laby/Assets/dialogue.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -600,6 +632,7 @@
         <option value="$PROJECT_DIR$/Assets/UI/wavy_text.cs" />
         <option value="$PROJECT_DIR$/../PuttPlot/PuttPlot-UnityVR/Assets/Code/DialogueSystem/DialogueChoice.cs" />
         <option value="$PROJECT_DIR$/../Laby/Assets/dialogue.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/DialogueWalker.cs" />
       </list>
     </option>
   </component>
@@ -667,12 +700,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570296376846</updated>
-      <workItem from="1570296386767" duration="7571000" />
+      <workItem from="1570296386767" duration="8005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7571000" />
+    <option name="totallyTimeSpent" value="8005000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -846,18 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Laby/Assets/dialogue.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <marker date="1570309753716" expanded="false" signature="6:78" ph="..." />
-            <marker date="1570309753716" expanded="true" signature="121:190" ph="{...}" />
-            <marker date="1570309753716" expanded="true" signature="269:322" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PuttPlot/PuttPlot-UnityVR/Assets/Code/DialogueSystem/DialogueChoice.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -875,6 +896,44 @@
           <caret line="22" column="44" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="44" />
           <folding>
             <element signature="e#0#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UI/DialogueWalker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <marker date="1570311942689" expanded="false" signature="6:78" ph="..." />
+            <marker date="1570311942689" expanded="true" signature="145:524" ph="{...}" />
+            <marker date="1570311942689" expanded="true" signature="406:522" ph="{...}" />
+            <marker date="1570311942689" expanded="true" signature="447:480" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Laby/Assets/dialogue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1570309753716" expanded="false" signature="6:78" ph="..." />
+            <marker date="1570309753716" expanded="true" signature="121:190" ph="{...}" />
+            <marker date="1570309753716" expanded="true" signature="269:322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CurrentText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <marker date="1570311716038" expanded="false" signature="6:78" ph="..." />
+            <marker date="1570311716038" expanded="true" signature="148:192" ph="{...}" />
+            <marker date="1570311716038" expanded="true" signature="237:325" ph="{...}" />
+            <marker date="1570311716038" expanded="true" signature="407:468" ph="{...}" />
           </folding>
         </state>
       </provider>

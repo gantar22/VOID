@@ -59,6 +59,7 @@
             <e p="ProjectVersion.txt" t="Include" />
           </e>
         </e>
+        <e p="CurrentText.cs" t="Include" />
         <e p="New folder" t="Include">
           <e p="Fonts" t="Include">
             <e p="Architects_Daughter" t="Include">
@@ -120,6 +121,7 @@
           </e>
         </e>
         <e p="UI" t="Include">
+          <e p="DialogueWalker.cs" t="Include" />
           <e p="wavy_text.cs" t="Include" />
         </e>
       </e>
