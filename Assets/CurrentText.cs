@@ -21,6 +21,8 @@ public struct Choice {
     public string choice;
     public CurrentText dest;
     public flags[] required;
+    public flags[] set_true;
+    public flags[] set_false;
 }
 
 [CreateAssetMenu(menuName = "Text")]
