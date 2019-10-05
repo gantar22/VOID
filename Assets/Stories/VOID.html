@@ -17,50 +17,40 @@
 </style><script role="script" id="twine-user-script" type="text/twine-javascript">
 
 
-</script><tw-tag name="Angry" color="red"></tw-tag>,<tw-tag name="Demanding" color="yellow"></tw-tag>,<tw-tag name="VOID" color="red"></tw-tag>,<tw-tag name="Void" color="red"></tw-tag>,<tw-tag name="No-Void" color="purple"></tw-tag><tw-passagedata pid="1" name="Introduction" tags="Neutral" position="45,179" size="100,100">FEED US.
-(set: $obeyed to 0)
-(set: $playingGame1 to 0)
-(set: $playingGame2 to 0)
-(set: $playingGame2 to 0)
+</script><tw-tag name="Angry" color="red"></tw-tag>,<tw-tag name="Demanding" color="yellow"></tw-tag>,<tw-tag name="VOID" color="red"></tw-tag>,<tw-tag name="Void" color="red"></tw-tag>,<tw-tag name="No-Void" color="purple"></tw-tag><tw-passagedata pid="1" name="Introduction" tags="Neutral" position="44,179" size="100,100">FEED US. (set: $disobeyed to true)(set: $playingGame1 to 0)(set: $playingGame2 to 0)(set: $playingGame3 to 0)
+
 [[What?]]
 [[Leave me alone.]]</tw-passagedata><tw-passagedata pid="2" name="Leave me alone." tags="Demanding" position="194,382" size="100,100">NEVER. I WILL NEVER LEAVE. 
-
 GO. FEED US. 
 
 [[I won&#39;t.-&gt;I&#39;m sick of your shit.]]
 [[What do you want?]]</tw-passagedata><tw-passagedata pid="3" name="What?" tags="Demanding" position="205,110" size="100,100">FEED US.
-
 HUNGER. WE HUNGER. 
-
 FEED US.
 
 [[What do you want?]]
 [[Leave me alone.-&gt;Leave me alone.]]</tw-passagedata><tw-passagedata pid="4" name="What do you want?" tags="Neutral" position="403,224" size="100,100">TO GROW. TO GROW. TO SWELL.
-
 FEED US. 
 
 [[Feed you what?]]
 [[I&#39;m sick of your shit.]]</tw-passagedata><tw-passagedata pid="5" name="Feed you what?" tags="Demanding" position="596,122" size="100,100">FIND IT. WHAT WE NEED.
-
 GO. FEED US.
 
 [[//Head out and search.// -&gt;Mini-game menu]]
-(if: $obeyed is 0) [(link-goto: &quot;I don&#39;t want to.&quot;, &quot;I&#39;m sick of your shit.&quot;)]
+(if: $disobeyed is true)[[[I don&#39;t want to. -&gt;I&#39;m sick of your shit.]]]
 </tw-passagedata><tw-passagedata pid="6" name="Mini-game menu" tags="No-Void" position="844,82" size="100,100">You search for some way to satisfy the void...
 
-(link: &quot;Go to X&quot;)[(set: $playingGame1 to 1)(goto: &quot;Game 1?&quot;)]
-(link: &quot;Go to Y&quot;)[(set: $playingGame2 to 1)(goto: &quot;Game 2?&quot;)]
-(link: &quot;Go to Z&quot;)[(set: $playingGame3 to 1)(goto: &quot;Game 3?&quot;)]</tw-passagedata><tw-passagedata pid="7" name="I&#39;m sick of your shit." tags="Angry" position="399,395" size="100,100">WE ARE THE SAME. YOU ARE NOTHING. WITHOUT ME.
-
+(link: &quot;Go to X&quot;)[(set: $playingGame1 to 1)(goto: &quot;Game 1.&quot;)]
+(link: &quot;Go to Y&quot;)[(set: $playingGame2 to 1)(goto: &quot;Game 2.&quot;)]
+(link: &quot;Look for someone.&quot;)[(set: $playingGame3 to 1)(goto: &quot;Game 3.&quot;)]</tw-passagedata><tw-passagedata pid="7" name="I&#39;m sick of your shit." tags="Angry" position="399,394" size="100,100">WE ARE THE SAME. YOU ARE NOTHING. WITHOUT ME.
 FEED US. OR ELSE.
 
-(link: &quot;Alright...&quot;)[(set: $obeyed to 1)(goto: &quot;Feed you what?&quot;)]
+(link: &quot;Alright...&quot;)[(set: $disobeyed to false)(goto: &quot;Feed you what?&quot;)]
 [[Or else what?]]</tw-passagedata><tw-passagedata pid="8" name="Or else what?" tags="Angry" position="465,530" size="100,100">WE STAY. TOGETHER. FOREVER.
-
 WILL YOU HURT. YOURSELF?
 
-(link: &quot;No...I&#39;ll feed you...&quot;)[(set: $obeyed to 1)(goto: &quot;Feed you what?&quot;)]
-[[//Stand your ground.// -&gt;Stand your ground.]]</tw-passagedata><tw-passagedata pid="9" name="Stand your ground." tags="Angry" position="590,681" size="100,100">THEN ROT.</tw-passagedata></tw-storydata>
+(link: &quot;No...I&#39;ll feed you...&quot;)[(set: $disobeyed to false)(goto: &quot;Feed you what?&quot;)]
+[[//Stand your ground.// -&gt;Stand your ground.]]</tw-passagedata><tw-passagedata pid="9" name="Stand your ground." tags="Angry" position="590,681" size="100,100">THEN ROT.</tw-passagedata><tw-passagedata pid="10" name="Game 3." tags="No-Void" position="932,240.5" size="100,100"></tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
