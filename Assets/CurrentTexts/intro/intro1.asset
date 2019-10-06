@@ -12,22 +12,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e0815ec498e3bf4a9d94343e661f3c2, type: 3}
   m_Name: intro1
   m_EditorClassIdentifier: 
-  on_enter:
-    m_PersistentCalls:
-      m_Calls: []
-  on_exit:
-    m_PersistentCalls:
-      m_Calls: []
-  spoken:
-  - text: FEED US.
-  choices:
-  - choice: What?
-    dest: {fileID: 11400000, guid: 240215aff3f2c234287388f379c58aed, type: 2}
-    required: 
-    set_true: 
-    set_false: 
-  - choice: Leave me alone.
-    dest: {fileID: 11400000, guid: 9f1bde76fcc3fda43ba3f1de348be086, type: 2}
-    required: 
-    set_true: 
-    set_false: 
