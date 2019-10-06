@@ -29,7 +29,7 @@ public class DialogueWalker : MonoBehaviour
 
     [SerializeField] private AudioSource audioPrefab;
 
-    private Dictionary<Flag, bool> state;
+    public Dictionary<Flag, bool> state;
 
     private void Start()
     {
@@ -53,6 +53,14 @@ public class DialogueWalker : MonoBehaviour
             state.Add(flag,b);
     }
 
+    public void set_true(string flag)
+    {
+        Flag arg;
+        if(Flag.TryParse(flag,out arg))
+            set_state(arg,true);
+    }
+    
+    
     public void Begin()
     {
         StartCoroutine(blitText(startingText));

@@ -10,7 +10,7 @@ public class deplete : MonoBehaviour
     {
         foreach (AudioSource source in _audioSources)
         {
-            source.volume = Mathf.Lerp(.3f, source.volume, .7f);
+            source.volume = Mathf.Lerp(.1f, source.volume, .5f);
         }
 
         foreach (ParticleSystem system in GetComponentsInChildren<ParticleSystem>())

@@ -8,7 +8,7 @@ public class SerializeEvent : MonoBehaviour
 
     [SerializeField] private UnityEvent[] es;
 
-    public void Invoke(int i)
+    public void Call(int i)
     {
         es[i].Invoke();
     }
