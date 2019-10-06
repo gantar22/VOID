@@ -25,10 +25,32 @@ public class DialogueWalker : MonoBehaviour
 
     [SerializeField] private DiagloueConfig config;
 
+    [SerializeField] private AudioClip[] text_sounds;
+
+    [SerializeField] private AudioSource audioPrefab;
+
+    private Dictionary<Flag, bool> state;
+
     private void Start()
     {
-
+        state = new Dictionary<Flag, bool>();
+        
         Begin();
+    }
+
+    bool get_state(Flag flag)
+    {
+        if (state.ContainsKey(flag))
+            return state[flag];
+        return false;
+    }
+
+    void set_state(Flag flag, bool b)
+    {
+        if (state.ContainsKey(flag))
+            state[flag] = b;
+        else
+            state.Add(flag,b);
     }
 
     public void Begin()
@@ -44,10 +66,20 @@ public class DialogueWalker : MonoBehaviour
         }
         foreach (var spoken in currentText.spoken)
         {
+            bool shouldContinue = true;
+            foreach (var flag in spoken.required)
+            {
+                shouldContinue &= get_state(flag);
+            }
+
+            if (!shouldContinue)
+                continue;
+            
+            
             yield return StartCoroutine(TypewriterText(
             Instantiate(spokenPrefab.gameObject, Vector3.zero, Quaternion.identity, textHolder.transform)
             
-            .GetComponent<TMPro.TMP_Text>(),spoken.text));
+            .GetComponent<TMPro.TMP_Text>(),spoken.text,spoken.speaker));
             LayoutRebuilder.ForceRebuildLayoutImmediate(textHolder.GetComponent<RectTransform>());
             
             yield return new WaitForSeconds(config.inter_spoken_wait_time);
@@ -56,10 +88,31 @@ public class DialogueWalker : MonoBehaviour
 
         foreach (var choice in currentText.choices)
         {
+            bool shouldContinue = true;
+            foreach (var flag in choice.required)
+            {
+                shouldContinue &= get_state(flag);
+            }
+
+            if (!shouldContinue)
+                continue;
+            
             GameObject choice_object = Instantiate(choicePrefab.gameObject, textHolder.transform);
-            choice_object.GetComponent<Button>().onClick.AddListener(() => StartCoroutine(blitText(choice.dest)));
+            choice_object.GetComponent<Button>().onClick.AddListener(() =>
+            {
+                foreach (var flag in choice.set_true)
+                {
+                    set_state(flag,true);
+                }
+
+                foreach (var flag in choice.set_false)
+                {
+                    set_state(flag,false);
+                }
+                StartCoroutine(blitText(choice.dest));
+            });
             yield return StartCoroutine(TypewriterText(
-                choice_object.GetComponentInChildren<TMPro.TMP_Text>(), choice.choice
+                choice_object.GetComponentInChildren<TMPro.TMP_Text>(), choice.choice,Speaker.player
             ));
             
             LayoutRebuilder.ForceRebuildLayoutImmediate(textHolder.GetComponent<RectTransform>());
@@ -71,7 +124,13 @@ public class DialogueWalker : MonoBehaviour
     }
 
 
-    IEnumerator TypewriterText(TMPro.TMP_Text text, string line)
+    IEnumerator KillAudio(AudioSource audioSource)
+    {
+        yield return new WaitUntil(() => !audioSource.isPlaying);
+        Destroy(audioSource.gameObject);
+    }
+
+    IEnumerator TypewriterText(TMPro.TMP_Text text, string line,Speaker speaker)
     {
         text.text = "";
         text.maxVisibleCharacters = 0;
@@ -83,6 +142,13 @@ public class DialogueWalker : MonoBehaviour
             for (int j = 0; j < words[i].Length; j++)
             {
                 text.maxVisibleCharacters++;
+                AudioSource src = Instantiate(audioPrefab.gameObject).GetComponent<AudioSource>();
+                float varience = .04f;
+                src.pitch += UnityEngine.Random.value * varience - varience * .5f;
+                src.volume /= j;
+                src.PlayOneShot(text_sounds[(int)speaker]);
+                StartCoroutine(KillAudio(src));
+                
                 yield return new WaitForSeconds(config.inter_char_time);
             }
 

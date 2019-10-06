@@ -23,17 +23,31 @@ MonoBehaviour:
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   spoken:
-  - text: FEED US.
-  - text: HUNGER. WE HUNGER.
-  - text: ' FEED US.'
+  - required: 
+    speaker: 0
+    text: FEED US.
+  - required: 
+    speaker: 0
+    text: HUNGER. WE HUNGER.
+  - required: 
+    speaker: 0
+    text: ' FEED US.'
+  - required: 
+    speaker: 0
+    text: 'something else
+
+'
+  - required: 00000000
+    speaker: 0
+    text: ' FEED US.'
   choices:
   - choice: What do you want?
-    dest: {fileID: 0}
+    dest: {fileID: 11400000, guid: 790b92b3aa3f03d43920b2dfa0bb4de4, type: 2}
     required: 
     set_true: 
     set_false: 
   - choice: Leave me alone.
-    dest: {fileID: 0}
+    dest: {fileID: 11400000, guid: 790b92b3aa3f03d43920b2dfa0bb4de4, type: 2}
     required: 
     set_true: 
     set_false: 

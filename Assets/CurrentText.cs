@@ -5,11 +5,16 @@ using UnityEngine;
 
 
 
-public enum flags { obeyed, playing0, playing1, playing2 };
+public enum Flag { obeyed, playing0, playing1, playing2 };
 
+public enum Speaker : int { the_void, player, clerk}
 
 [System.Serializable]
-public struct Line {
+public struct Line
+{
+    public Flag[] required;
+
+    public Speaker speaker;
 
     [TextArea]
     public string text;
@@ -21,9 +26,9 @@ public struct Choice {
 
     public string choice;
     public CurrentText dest;
-    public flags[] required;
-    public flags[] set_true;
-    public flags[] set_false;
+    public Flag[] required;
+    public Flag[] set_true;
+    public Flag[] set_false;
 }
 
 [CreateAssetMenu(menuName = "Text")]
