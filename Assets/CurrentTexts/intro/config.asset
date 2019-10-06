@@ -10,5 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
-  m_Name: intro1
-  m_EditorClassIdentifier: 
+  m_Name: config
+  m_EditorClassIdentifier: Assembly-CSharp::DiagloueConfig
+  inter_spoken_wait_time: 0.1
+  time_between_spoken_and_choices: 0.2
+  inter_choice_wait_time: 0.1
+  inter_char_time: 0.05
