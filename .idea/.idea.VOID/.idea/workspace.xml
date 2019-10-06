@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156022b8-ca9e-4457-a38f-f03e1d165ffd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentText.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentText.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SerializeEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SerializeEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/DialogueWalker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/DialogueWalker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/deplete.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/deplete.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/slotMachine/slotMachine_idle/slotMachine_idle0000.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/slotMachine/slotMachine_idle/slotMachine_idle0000.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/slotMachine/slotMachine_pull/slot_pull.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/slotMachine/slotMachine_pull/slot_pull.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/slotMachine/slotMachine_sevenRoll/slot_land.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/slotMachine/slotMachine_sevenRoll/slot_land.anim" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,43 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PuttPlot/PuttPlot-UnityVR/Assets/Code/DialogueSystem/DialogueChoice.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <marker date="1570309498999" expanded="false" signature="6:78" ph="..." />
-                <marker date="1570309498999" expanded="true" signature="174:322" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PuttPlot/new/PuttPlot-UnityVR/Assets/Code/DialogueSystem/DialogueController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="43" column="14" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#152#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PuttPlot/new/PuttPlot-UnityVR/Assets/Code/DialogueSystem/Frame.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="43" column="68" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
-              <folding>
-                <element signature="e#0#118#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/UI/DialogueWalker.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,31 +61,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/deplete.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-              <folding>
-                <marker date="1570376200464" expanded="false" signature="6:78" ph="..." />
-                <marker date="1570376200464" expanded="true" signature="116:645" ph="{...}" />
-                <marker date="1570376200464" expanded="true" signature="202:643" ph="{...}" />
-                <marker date="1570376200464" expanded="true" signature="262:347" ph="{...}" />
-                <marker date="1570376200464" expanded="true" signature="433:637" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Text.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="5419" selection-start-line="5419" selection-end-line="5419" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/CurrentText.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
@@ -138,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/BoilerPlate/EventObject.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
@@ -156,6 +93,86 @@
                 <marker date="1570377341621" expanded="true" signature="1015:1052" ph="{...}" />
                 <marker date="1570377341621" expanded="true" signature="1103:1282" ph="{...}" />
                 <marker date="1570377341621" expanded="true" signature="1147:1240" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EventHook.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding>
+                <marker date="1570377518577" expanded="false" signature="6:78" ph="..." />
+                <marker date="1570377518577" expanded="true" signature="144:380" ph="{...}" />
+                <marker date="1570377518577" expanded="true" signature="316:373" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/press_buttons.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+              <folding>
+                <marker date="1570379648760" expanded="false" signature="6:78" ph="..." />
+                <marker date="1570379648760" expanded="true" signature="151:338" ph="{...}" />
+                <marker date="1570379648760" expanded="true" signature="382:1691" ph="{...}" />
+                <marker date="1570379648760" expanded="true" signature="616:746" ph="{...}" />
+                <marker date="1570379648760" expanded="true" signature="794:1153" ph="{...}" />
+                <marker date="1570379648760" expanded="true" signature="821:1147" ph="{...}" />
+                <marker date="1570379648760" expanded="true" signature="875:984" ph="{...}" />
+                <marker date="1570379648760" expanded="true" signature="1030:1137" ph="{...}" />
+                <marker date="1570379648760" expanded="true" signature="1176:1689" ph="{...}" />
+                <marker date="1570379648760" expanded="true" signature="1463:1683" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/move_right.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <marker date="1570380092482" expanded="false" signature="6:78" ph="..." />
+                <marker date="1570380092482" expanded="true" signature="119:226" ph="{...}" />
+                <marker date="1570380092482" expanded="true" signature="158:224" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/trigger_bool.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <marker date="1570380615318" expanded="true" signature="6:92" ph="..." />
+                <marker date="1570380615318" expanded="true" signature="135:728" ph="{...}" />
+                <marker date="1570380615318" expanded="true" signature="407:548" ph="{...}" />
+                <marker date="1570380615318" expanded="true" signature="447:540" ph="{...}" />
+                <marker date="1570380615318" expanded="true" signature="576:715" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/BoilerPlate/UnitEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <marker date="1570377515322" expanded="true" signature="6:74" ph="..." />
+                <marker date="1570377515322" expanded="true" signature="279:440" ph="{...}" />
+                <marker date="1570377515322" expanded="true" signature="306:351" ph="{...}" />
+                <marker date="1570377515322" expanded="true" signature="390:438" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -197,11 +214,16 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SerializeEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C89C971-D435-4E7E-BE36-3FE2CA0E2628/f6/7334bab1/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BoilerPlate/UnitEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C89C971-D435-4E7E-BE36-3FE2CA0E2628/c8/6a8818c6/__DynamicallyInvokableAttribute.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../PuttPlot/PuttPlot-UnityVR/Assets/Code/DialogueSystem/DialogueChoice.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CurrentText.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/BoilerPlate/EventObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EventHook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UI/wavy_text.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/move_right.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/trigger_bool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/press_buttons.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/deplete.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UI/DialogueWalker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Laby/Assets/dialogue.cs" root0="SKIP_HIGHLIGHTING" />
@@ -217,6 +239,11 @@
         <option value="$PROJECT_DIR$/Assets/CurrentText.cs" />
         <option value="$PROJECT_DIR$/Assets/UI/DialogueWalker.cs" />
         <option value="$PROJECT_DIR$/Assets/BoilerPlate/EventObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/EventHook.cs" />
+        <option value="$PROJECT_DIR$/Assets/BoilerPlate/UnitEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/press_buttons.cs" />
+        <option value="$PROJECT_DIR$/Assets/move_right.cs" />
+        <option value="$PROJECT_DIR$/Assets/trigger_bool.cs" />
       </list>
     </option>
   </component>
@@ -284,12 +311,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570296376846</updated>
-      <workItem from="1570296386767" duration="23456000" />
+      <workItem from="1570296386767" duration="26018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23456000" />
+    <option name="totallyTimeSpent" value="26018000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -573,6 +600,76 @@
             <marker date="1570377341621" expanded="true" signature="1015:1052" ph="{...}" />
             <marker date="1570377341621" expanded="true" signature="1103:1282" ph="{...}" />
             <marker date="1570377341621" expanded="true" signature="1147:1240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BoilerPlate/UnitEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <marker date="1570377515322" expanded="true" signature="6:74" ph="..." />
+            <marker date="1570377515322" expanded="true" signature="279:440" ph="{...}" />
+            <marker date="1570377515322" expanded="true" signature="306:351" ph="{...}" />
+            <marker date="1570377515322" expanded="true" signature="390:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EventHook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <marker date="1570377518577" expanded="false" signature="6:78" ph="..." />
+            <marker date="1570377518577" expanded="true" signature="144:380" ph="{...}" />
+            <marker date="1570377518577" expanded="true" signature="316:373" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/press_buttons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <marker date="1570379648760" expanded="false" signature="6:78" ph="..." />
+            <marker date="1570379648760" expanded="true" signature="151:338" ph="{...}" />
+            <marker date="1570379648760" expanded="true" signature="382:1691" ph="{...}" />
+            <marker date="1570379648760" expanded="true" signature="616:746" ph="{...}" />
+            <marker date="1570379648760" expanded="true" signature="794:1153" ph="{...}" />
+            <marker date="1570379648760" expanded="true" signature="821:1147" ph="{...}" />
+            <marker date="1570379648760" expanded="true" signature="875:984" ph="{...}" />
+            <marker date="1570379648760" expanded="true" signature="1030:1137" ph="{...}" />
+            <marker date="1570379648760" expanded="true" signature="1176:1689" ph="{...}" />
+            <marker date="1570379648760" expanded="true" signature="1463:1683" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/move_right.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1570380092482" expanded="false" signature="6:78" ph="..." />
+            <marker date="1570380092482" expanded="true" signature="119:226" ph="{...}" />
+            <marker date="1570380092482" expanded="true" signature="158:224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/trigger_bool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <marker date="1570380615318" expanded="true" signature="6:92" ph="..." />
+            <marker date="1570380615318" expanded="true" signature="135:728" ph="{...}" />
+            <marker date="1570380615318" expanded="true" signature="407:548" ph="{...}" />
+            <marker date="1570380615318" expanded="true" signature="447:540" ph="{...}" />
+            <marker date="1570380615318" expanded="true" signature="576:715" ph="{...}" />
           </folding>
         </state>
       </provider>

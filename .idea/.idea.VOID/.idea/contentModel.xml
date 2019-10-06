@@ -20,6 +20,7 @@
         <e p="CurrentText.cs" t="Include" />
         <e p="deplete.cs" t="Include" />
         <e p="EventHook.cs" t="Include" />
+        <e p="move_right.cs" t="Include" />
         <e p="New folder" t="Include">
           <e p="Fonts" t="Include">
             <e p="Architects_Daughter" t="Include">
@@ -48,6 +49,7 @@
             </e>
           </e>
         </e>
+        <e p="press_buttons.cs" t="Include" />
         <e p="SerializeEvent.cs" t="Include" />
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
@@ -77,6 +79,7 @@
             <e p="EmojiOne Attribution.txt" t="Include" />
           </e>
         </e>
+        <e p="trigger_bool.cs" t="Include" />
         <e p="UI" t="Include">
           <e p="DialogueWalker.cs" t="Include" />
           <e p="wavy_text.cs" t="Include" />
