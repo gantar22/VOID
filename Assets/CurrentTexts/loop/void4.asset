@@ -21,7 +21,7 @@ MonoBehaviour:
   spoken:
   - required: 
     speaker: 0
-    text: "FOOL. WE ARE BOUND.\r TOGETHER."
+    text: "FOOL. WE ARE BOUND.\r"
   - required: 
     speaker: 0
     text: "\rGO. BRING BACK MORE.\r"
