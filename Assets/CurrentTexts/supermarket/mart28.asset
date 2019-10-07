@@ -10,35 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
-  m_Name: mart8
+  m_Name: mart28
   m_EditorClassIdentifier: 
   on_enter:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 11400000, guid: 467dc8795713f0e4d9fdfdfc943f918f, type: 2}
-        m_MethodName: Invoke
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
+      m_Calls: []
   on_exit:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   spoken:
   - required: 
     speaker: 4
-    text: The bottles smash onto the ground, spilling their contents everywhere. Your
-      eardrums nearly explode from how loud that was. And yet, amazingly, no shop-keep
-      in sight. Huh.
+    text: You look around the supermarket...what to do, what to do?
   choices:
   - choice: <i>Knock out the shop-keep. </i>
     dest: {fileID: 11400000, guid: 9797e09f3a6c64341920b6677c02638d, type: 2}
