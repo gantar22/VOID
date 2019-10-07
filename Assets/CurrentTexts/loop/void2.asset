@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
+  m_Name: void2
+  m_EditorClassIdentifier: 
+  on_enter:
+    m_PersistentCalls:
+      m_Calls: []
+  on_exit:
+    m_PersistentCalls:
+      m_Calls: []
+  spoken:
+  - required: 
+    speaker: 0
+    text: "WE HUNGER.\r"
+  - required: 
+    speaker: 0
+    text: "\rGO. BRING MORE."
+  choices:
+  - choice: What...
+    dest: {fileID: 11400000, guid: b586c2e4549796f4faf594ff2c8dfd2c, type: 2}
+    required: 0d000000
+    set_true: 0e000000
+    set_false: 0d000000
+  - choice: How much more do you want?
+    dest: {fileID: 11400000, guid: b586c2e4549796f4faf594ff2c8dfd2c, type: 2}
+    required: 0e000000
+    set_true: 0f000000
+    set_false: 0e000000
+  - choice: I can't do this anymore...
+    dest: {fileID: 11400000, guid: b586c2e4549796f4faf594ff2c8dfd2c, type: 2}
+    required: 0f000000
+    set_true: 10000000
+    set_false: 0f000000
+  - choice: This is pointless...
+    dest: {fileID: 11400000, guid: b586c2e4549796f4faf594ff2c8dfd2c, type: 2}
+    required: 10000000
+    set_true: 11000000
+    set_false: 10000000
+  - choice: Pointless...
+    dest: {fileID: 11400000, guid: b586c2e4549796f4faf594ff2c8dfd2c, type: 2}
+    required: 11000000
+    set_true: 
+    set_false: 

@@ -2,96 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156022b8-ca9e-4457-a38f-f03e1d165ffd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/back.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/back/back1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/back/back2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/back/back3.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/back/back3.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/back/back4.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/back/back4.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/game menu/race.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/game menu/race.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/game menu/slots.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/game menu/slots.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/game menu/supermarket.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/game menu/supermarket.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart10.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart10.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart11.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart11.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart12.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart12.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart13.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart13.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart14.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart14.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart15.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart15.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart16.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart16.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart17.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart17.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart18.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart18.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart19.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart19.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart2.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart2.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart20.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart20.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart21.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart21.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart22.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart22.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart23.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart23.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart24.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart24.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart25.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart25.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart26.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart26.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart27.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart27.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart3.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart3.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart4.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart4.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart5.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart5.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart6.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart6.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart7.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart7.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart8.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart8.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart9.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart9.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VOID/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VOID/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop/void1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop/void1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop/void2.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop/void2.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop/void3.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop/void3.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop/void4.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop/void4.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop/void5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CurrentTexts/loop/void5.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/CurrentText.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentText.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/game menu/menu.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/game menu/menu.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro1old.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro1old.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/back/back1.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro2.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro3.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro4.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro5.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro6.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro7.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro7.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro8.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/intro/intro8.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/test_intro.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/intro/test_intro.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/back/back2.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/New folder/fonts/Caveat_Brush/CaveatBrush-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New folder/fonts/Caveat_Brush/CaveatBrush-Regular SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/DialogueWalker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/DialogueWalker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/LINK 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/LINK 1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/Text (TMP) 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/Text (TMP) 1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CurrentTexts/supermarket/mart1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoToVoid.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoToVoid.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,36 +29,37 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/UI/DialogueWalker.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="153" column="82" lean-forward="true" selection-start-line="153" selection-start-column="82" selection-end-line="153" selection-end-column="82" />
+            <state relative-caret-position="1017">
+              <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
               <folding>
-                <marker date="1570416603672" expanded="false" signature="6:114" ph="..." />
-                <marker date="1570416603672" expanded="true" signature="210:473" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="518:5120" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="982:1066" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="1097:1200" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="1239:1361" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="1400:1503" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="1537:1597" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="1652:3933" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="1751:1806" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="1857:2569" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="1957:2036" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="2704:3853" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="2804:2883" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="3130:3480" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="3198:3276" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="3332:3411" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="3986:4105" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="4187:5118" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="4342:5111" ph="{...}" />
-                <marker date="1570416603672" expanded="true" signature="4471:4996" ph="{...}" />
+                <marker date="1570418166274" expanded="false" signature="6:114" ph="..." />
+                <marker date="1570418166274" expanded="true" signature="210:473" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="518:5238" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="982:1066" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="1097:1200" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="1239:1361" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="1400:1503" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="1537:1597" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="1636:1715" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="1770:4051" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="1869:1924" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="1975:2687" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="2075:2154" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="2822:3971" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="2922:3001" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="3248:3598" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="3316:3394" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="3450:3529" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="4104:4223" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="4305:5236" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="4460:5229" ph="{...}" />
+                <marker date="1570418166274" expanded="true" signature="4589:5114" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/instantiate.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="416">
@@ -149,16 +75,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/CurrentText.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="96">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <marker date="1570411022055" expanded="true" signature="6:104" ph="..." />
-                <marker date="1570411022055" expanded="true" signature="387:495" ph="{...}" />
-                <marker date="1570411022055" expanded="true" signature="540:684" ph="{...}" />
-                <marker date="1570411022055" expanded="true" signature="766:889" ph="{...}" />
+                <marker date="1570418941655" expanded="true" signature="6:104" ph="..." />
+                <marker date="1570418941655" expanded="true" signature="125:333" ph="{...}" />
+                <marker date="1570418941655" expanded="true" signature="452:560" ph="{...}" />
+                <marker date="1570418941655" expanded="true" signature="605:749" ph="{...}" />
+                <marker date="1570418941655" expanded="true" signature="831:954" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -345,10 +272,10 @@
         <option value="$PROJECT_DIR$/Assets/player_finish.cs" />
         <option value="$PROJECT_DIR$/Assets/delay_event.cs" />
         <option value="$PROJECT_DIR$/Assets/determine_winner.cs" />
-        <option value="$PROJECT_DIR$/Assets/CurrentText.cs" />
         <option value="$PROJECT_DIR$/Assets/audjust_size.cs" />
-        <option value="$PROJECT_DIR$/Assets/UI/DialogueWalker.cs" />
         <option value="$PROJECT_DIR$/Assets/instantiate.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/DialogueWalker.cs" />
+        <option value="$PROJECT_DIR$/Assets/CurrentText.cs" />
       </list>
     </option>
   </component>
@@ -426,12 +353,12 @@
       <option name="presentableId" value="Default" />
       <updated>1570296376846</updated>
       <workItem from="1570296386767" duration="26282000" />
-      <workItem from="1570394846610" duration="15308000" />
+      <workItem from="1570394846610" duration="16004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41590000" />
+    <option name="totallyTimeSpent" value="42286000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -818,19 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CurrentText.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <marker date="1570411022055" expanded="true" signature="6:104" ph="..." />
-            <marker date="1570411022055" expanded="true" signature="387:495" ph="{...}" />
-            <marker date="1570411022055" expanded="true" signature="540:684" ph="{...}" />
-            <marker date="1570411022055" expanded="true" signature="766:889" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/audjust_size.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -849,36 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UI/DialogueWalker.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="153" column="82" lean-forward="true" selection-start-line="153" selection-start-column="82" selection-end-line="153" selection-end-column="82" />
-          <folding>
-            <marker date="1570416603672" expanded="false" signature="6:114" ph="..." />
-            <marker date="1570416603672" expanded="true" signature="210:473" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="518:5120" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="982:1066" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="1097:1200" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="1239:1361" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="1400:1503" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="1537:1597" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="1652:3933" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="1751:1806" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="1857:2569" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="1957:2036" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="2704:3853" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="2804:2883" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="3130:3480" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="3198:3276" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="3332:3411" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="3986:4105" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="4187:5118" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="4342:5111" ph="{...}" />
-            <marker date="1570416603672" expanded="true" signature="4471:4996" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/instantiate.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
@@ -889,6 +773,51 @@
             <marker date="1570418107168" expanded="true" signature="320:428" ph="{...}" />
             <marker date="1570418107168" expanded="true" signature="462:866" ph="{...}" />
             <marker date="1570418107168" expanded="true" signature="602:820" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UI/DialogueWalker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1017">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+          <folding>
+            <marker date="1570418166274" expanded="false" signature="6:114" ph="..." />
+            <marker date="1570418166274" expanded="true" signature="210:473" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="518:5238" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="982:1066" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="1097:1200" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="1239:1361" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="1400:1503" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="1537:1597" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="1636:1715" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="1770:4051" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="1869:1924" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="1975:2687" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="2075:2154" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="2822:3971" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="2922:3001" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="3248:3598" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="3316:3394" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="3450:3529" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="4104:4223" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="4305:5236" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="4460:5229" ph="{...}" />
+            <marker date="1570418166274" expanded="true" signature="4589:5114" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CurrentText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1570418941655" expanded="true" signature="6:104" ph="..." />
+            <marker date="1570418941655" expanded="true" signature="125:333" ph="{...}" />
+            <marker date="1570418941655" expanded="true" signature="452:560" ph="{...}" />
+            <marker date="1570418941655" expanded="true" signature="605:749" ph="{...}" />
+            <marker date="1570418941655" expanded="true" signature="831:954" ph="{...}" />
           </folding>
         </state>
       </provider>

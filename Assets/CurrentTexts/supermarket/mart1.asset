@@ -21,8 +21,8 @@ MonoBehaviour:
   spoken:
   - required: 
     speaker: 4
-    text: 'You head to the local supermarket; you''re sure you''ll find what you''re
-      looking for there. '
+    text: "You head to the local supermarket; you're \nsure you'll find what you need
+      there."
   - required: 
     speaker: 4
     text: '"Welcome!", the shopkeeper greets you. You ignore him and walk down one
@@ -32,14 +32,14 @@ MonoBehaviour:
     dest: {fileID: 11400000, guid: d1d0ae826da47854d9b9e128715eb820, type: 2}
     required: 
     set_true: 08000000090000000a0000000b000000
-    set_false: 
+    set_false: 0500000006000000070000000c000000
   - choice: <i>Search the aisles. </i>
     dest: {fileID: 11400000, guid: d27d2056994468d4682e4b87622677fb, type: 2}
     required: 
     set_true: 08000000090000000a0000000b000000
-    set_false: 
+    set_false: 0500000006000000070000000c000000
   - choice: <i>Leave without taking anything. </i>
     dest: {fileID: 11400000, guid: 52619f54d7b237b45a137716def2bffb, type: 2}
     required: 
     set_true: 08000000090000000a0000000b000000
-    set_false: 
+    set_false: 0500000006000000070000000c000000
