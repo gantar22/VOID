@@ -10,25 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
-  m_Name: mart21
+  m_Name: void_1
   m_EditorClassIdentifier: 
   on_enter:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: f15bead68320e8d4e83462589a2a4763, type: 2}
+        m_MethodName: Invoke
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   on_exit:
     m_PersistentCalls:
       m_Calls: []
-  spoken:
-  - required: 
-    speaker: 3
-    text: '"But you''re the only one here. "'
-  - required: 
-    speaker: 4
-    text: 'You shrug. He shrugs and walks towards the aisle. Now''s your chance! You
-      grab the teddy bear and run out. '
-  choices:
-  - choice: <i>Head back. </i>
-    dest: {fileID: 11400000, guid: 20c0ffc0093a3f940acfa7fedaafd1b9, type: 2}
-    required: 
-    set_true: 
-    set_false: 
+  spoken: []
+  choices: []

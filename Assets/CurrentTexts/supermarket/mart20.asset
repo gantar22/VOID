@@ -15,13 +15,9 @@ MonoBehaviour:
   on_enter:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   on_exit:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   spoken:
   - required: 
     speaker: 3
@@ -32,7 +28,7 @@ MonoBehaviour:
       your chance! You grab the teddy bear and run out. '
   choices:
   - choice: <i>Head back. </i>
-    dest: {fileID: 11400000, guid: dee666eedfd860643a1c016d932f1eda, type: 2}
+    dest: {fileID: 11400000, guid: 20c0ffc0093a3f940acfa7fedaafd1b9, type: 2}
     required: 
     set_true: 
     set_false: 
