@@ -15,7 +15,7 @@ MonoBehaviour:
   on_enter:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11400000, guid: f15bead68320e8d4e83462589a2a4763, type: 2}
+      - m_Target: {fileID: 11400000, guid: 453294f4db5a5c04282a2f04e6ab8606, type: 2}
         m_MethodName: Invoke
         m_Mode: 1
         m_Arguments:

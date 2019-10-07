@@ -56,6 +56,7 @@
         <e p="opponent_runner.cs" t="Include" />
         <e p="player_finish.cs" t="Include" />
         <e p="press_buttons.cs" t="Include" />
+        <e p="Quit.cs" t="Include" />
         <e p="race_start.cs" t="Include" />
         <e p="random_audio.cs" t="Include" />
         <e p="SerializeEvent.cs" t="Include" />
