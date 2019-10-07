@@ -29,6 +29,7 @@ public class DialogueWalker : MonoBehaviour
 
     [SerializeField] private AudioSource audioPrefab;
 
+
     public Dictionary<Flag, bool> state;
 
     private void Start()
@@ -145,17 +146,20 @@ public class DialogueWalker : MonoBehaviour
         Destroy(audioSource.gameObject);
     }
 
-    IEnumerator TypewriterText(TMPro.TMP_Text text, string line,Speaker speaker)
+
+    IEnumerator TypewriterText(TMPro.TMP_Text text, string line, Speaker speaker)
     {
         text.text = "";
         text.maxVisibleCharacters = 0;
         string[] words = line.Split(' ');
-        for(int i = 0;i < words.Length;i++)
+        for(int i = 0; i < words.Length;i++)
         {
+
             text.text += words[i];
             text.text += " ";
             for (int j = 0; j < words[i].Length; j++)
             {
+
                 text.maxVisibleCharacters++;
                 AudioSource src = Instantiate(audioPrefab.gameObject).GetComponent<AudioSource>();
                 float varience = .04f;
@@ -164,7 +168,7 @@ public class DialogueWalker : MonoBehaviour
                 src.PlayOneShot(text_sounds[(int)speaker]);
                 StartCoroutine(KillAudio(src));
                 
-                yield return new WaitForSeconds(config.inter_char_time);
+                yield return new WaitForSeconds(Input.GetMouseButton(0) ? 0 : config.inter_char_time);
             }
 
             text.maxVisibleCharacters++;
