@@ -4104,6 +4104,41 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 97
       objectReference: {fileID: 0}
+    - target: {fileID: 3889013575267847050, guid: 30abd6653fabbed46b75d7efb5732269,
+        type: 3}
+      propertyPath: m_ChildControlWidth
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889013575267847050, guid: 30abd6653fabbed46b75d7efb5732269,
+        type: 3}
+      propertyPath: m_ChildForceExpandWidth
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889013575267847050, guid: 30abd6653fabbed46b75d7efb5732269,
+        type: 3}
+      propertyPath: m_ChildForceExpandHeight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889013575267847050, guid: 30abd6653fabbed46b75d7efb5732269,
+        type: 3}
+      propertyPath: m_ChildAlignment
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889013575267847050, guid: 30abd6653fabbed46b75d7efb5732269,
+        type: 3}
+      propertyPath: m_ChildScaleWidth
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889013575267847050, guid: 30abd6653fabbed46b75d7efb5732269,
+        type: 3}
+      propertyPath: m_ChildControlHeight
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889013575267847050, guid: 30abd6653fabbed46b75d7efb5732269,
+        type: 3}
+      propertyPath: m_ChildScaleHeight
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30abd6653fabbed46b75d7efb5732269, type: 3}
 --- !u!1001 &4042529122290452149
