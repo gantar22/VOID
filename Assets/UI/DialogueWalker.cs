@@ -91,6 +91,8 @@ public class DialogueWalker : MonoBehaviour
             if (!shouldContinue)
                 continue;
 
+            yield return new WaitForSeconds(.1f);
+            
             yield return StartCoroutine(TypewriterText(
             Instantiate(spokenPrefab.gameObject, Vector3.zero, Quaternion.identity, textHolder.transform)
             .GetComponent<TMPro.TMP_Text>(),spoken.text,spoken.speaker));
