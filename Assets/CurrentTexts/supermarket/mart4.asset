@@ -35,28 +35,8 @@ MonoBehaviour:
       able to hide something this large on yourself. You need to somehow distract
       the shop-keep. But how?
   choices:
-  - choice: <i>Knock him out. </i>
-    dest: {fileID: 11400000, guid: 9797e09f3a6c64341920b6677c02638d, type: 2}
-    required: 
-    set_true: 
-    set_false: 
-  - choice: <i>Knock over a display. </i>
-    dest: {fileID: 11400000, guid: 8c437698a0ced1b42a83260bdd84ae7d, type: 2}
-    required: 
-    set_true: 
-    set_false: 
-  - choice: <i>Talk to him. </i>
-    dest: {fileID: 11400000, guid: 05706491e5ae98a4fa7f70ff2bce346d, type: 2}
-    required: 
-    set_true: 
-    set_false: 
-  - choice: '<i>Leave without taking anything. </i> '
-    dest: {fileID: 11400000, guid: 52619f54d7b237b45a137716def2bffb, type: 2}
-    required: 
-    set_true: 
-    set_false: 
-  - choice: <i>Hide the teddybear. </i>
-    dest: {fileID: 11400000, guid: 4154a75d5ecde1b4aaac7c3c2a70a11e, type: 2}
+  - choice: <i>Hatch a plan. </i>
+    dest: {fileID: 11400000, guid: 1e86ab7c0f7de4d41990664279f88d13, type: 2}
     required: 
     set_true: 
     set_false: 
