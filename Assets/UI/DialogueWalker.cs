@@ -90,14 +90,12 @@ public class DialogueWalker : MonoBehaviour
 
             if (!shouldContinue)
                 continue;
-            
-            
+
             yield return StartCoroutine(TypewriterText(
             Instantiate(spokenPrefab.gameObject, Vector3.zero, Quaternion.identity, textHolder.transform)
-            
             .GetComponent<TMPro.TMP_Text>(),spoken.text,spoken.speaker));
             LayoutRebuilder.ForceRebuildLayoutImmediate(textHolder.GetComponent<RectTransform>());
-            
+
             yield return new WaitForSeconds(config.inter_spoken_wait_time);
         }
         yield return  new WaitForSeconds(config.time_between_spoken_and_choices);

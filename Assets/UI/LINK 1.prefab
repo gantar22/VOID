@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 359580800251876271}
   - component: {fileID: 4992432045126018649}
   - component: {fileID: 2322867777116165751}
+  - component: {fileID: -567386864295776883}
   m_Layer: 5
   m_Name: LINK 1
   m_TagString: Untagged
@@ -118,6 +119,26 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &-567386864295776883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6017987188181001603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: -1
+  m_MinHeight: 132
+  m_PreferredWidth: 886.4
+  m_PreferredHeight: -1
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
 --- !u!1001 &1322824087213562563
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -175,7 +196,7 @@ PrefabInstance:
     - target: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
       propertyPath: m_textInfo.lineCount
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
@@ -275,7 +296,7 @@ PrefabInstance:
     - target: {fileID: 4947854256310455848, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 550
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4947854256310455848, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
