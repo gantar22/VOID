@@ -35,7 +35,7 @@ MonoBehaviour:
     text: 'Well that was easy, you think as you grab the teddy bear and head out. '
   choices:
   - choice: <i>Head back. </i>
-    dest: {fileID: 11400000, guid: 9892de00a009bcb4c8dcc16e57fc87eb, type: 2}
+    dest: {fileID: 11400000, guid: dee666eedfd860643a1c016d932f1eda, type: 2}
     required: 
     set_true: 
     set_false: 
