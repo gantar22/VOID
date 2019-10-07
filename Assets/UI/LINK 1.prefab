@@ -66,6 +66,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -115,10 +117,12 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 4992432045126018649}
+  m_TargetGraphic: {fileID: 5273139925849801892}
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!114 &-567386864295776883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -357,3 +361,15 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 1322824087213562563}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5273139925849801892 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+    type: 3}
+  m_PrefabInstance: {fileID: 1322824087213562563}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
