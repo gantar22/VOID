@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
-  m_Name: intro1
+  m_Name: void1
   m_EditorClassIdentifier: 
   on_enter:
     m_PersistentCalls:
@@ -21,15 +21,18 @@ MonoBehaviour:
   spoken:
   - required: 
     speaker: 0
-    text: FEED US.
+    text: "YOU FAILURE. WE HUNGER.\r"
+  - required: 
+    speaker: 0
+    text: "\rGO. FEED US. "
   choices:
-  - choice: What?
-    dest: {fileID: 11400000, guid: 9f1bde76fcc3fda43ba3f1de348be086, type: 2}
+  - choice: <i> Head out and search. </i>
+    dest: {fileID: 11400000, guid: deaa0b4d008c2be41ad7008ef5af9737, type: 2}
     required: 
-    set_true: 000000000d000000
+    set_true: 
     set_false: 
-  - choice: Leave me alone.
-    dest: {fileID: 11400000, guid: 240215aff3f2c234287388f379c58aed, type: 2}
+  - choice: I won't.
+    dest: {fileID: 11400000, guid: a13fd0e4a36b8114595a739f9c34575e, type: 2}
     required: 
-    set_true: 0d00000000000000
+    set_true: 
     set_false: 

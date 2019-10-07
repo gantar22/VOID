@@ -5,7 +5,8 @@ using UnityEngine;
 
 
 
-public enum Flag { obeyed, playing0, playing1, playing2 , pull_slot_machine, knockedchoc, knockeddrink, knockedtuna, choc, drink, tuna, notnose, nose};
+public enum Flag { obeyed, playing0, playing1, playing2 , pull_slot_machine, knockedchoc, knockeddrink, knockedtuna, choc, drink, tuna, notnose, nose,
+                    return1, return2, return3, return4, return5};
 
 public enum Speaker : int { the_void, angry_void, player, clerk, narrator}
 
