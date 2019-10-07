@@ -37,7 +37,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 500, y: 50}
+  m_SizeDelta: {x: 550, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &359580800251876271
 CanvasRenderer:
@@ -171,6 +171,46 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -4414993170807449667, guid: c7a520ec577d234429cc94e6660243cd,
         type: 2}
+    - target: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_text
+      value: meone's dropped chocolate all over aisle one.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 4947854256310455848, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -229,22 +269,22 @@ PrefabInstance:
     - target: {fileID: 4947854256310455848, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 246.4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4947854256310455848, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 24.8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4947854256310455848, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 492.8
+      value: 550
       objectReference: {fileID: 0}
     - target: {fileID: 4947854256310455848, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 49.6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4947854256310455848, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
@@ -269,12 +309,28 @@ PrefabInstance:
     - target: {fileID: 4947854256310455848, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
       propertyPath: m_Pivot.x
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4947854256310455848, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
         type: 3}
       propertyPath: m_Pivot.y
-      value: 0.5
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7618393078580241203, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7618393078580241203, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8457390159148040638, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
+        type: 3}
+      propertyPath: m_Name
+      value: TMP SubMeshUI [ArchitectsDaughter-Regular SDF Material + LiberationSans
+        SDF Atlas]
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 58f08aee7af49194d98b49b8c5b3bbc6, type: 3}

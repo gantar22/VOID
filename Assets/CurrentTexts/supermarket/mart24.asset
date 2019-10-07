@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
+  m_Name: mart24
+  m_EditorClassIdentifier: 
+  on_enter:
+    m_PersistentCalls:
+      m_Calls: []
+  on_exit:
+    m_PersistentCalls:
+      m_Calls: []
+  spoken:
+  - required: 
+    speaker: 4
+    text: Look, we're talking about a three foot tall teddy-bear. The kind of bear
+      you'd find at a carnival. There's no way in hell that you're gonna get it to
+      fit inside your pants and be able to walk out without anyone noticing.
+  choices:
+  - choice: <i>Knock out the shop-keep. </i>
+    dest: {fileID: 11400000, guid: 9797e09f3a6c64341920b6677c02638d, type: 2}
+    required: 
+    set_true: 
+    set_false: 
+  - choice: <i>Knock over a display. </i>
+    dest: {fileID: 11400000, guid: 8c437698a0ced1b42a83260bdd84ae7d, type: 2}
+    required: 
+    set_true: 
+    set_false: 
+  - choice: <i>Talk to the shop-keep. </i>
+    dest: {fileID: 11400000, guid: 05706491e5ae98a4fa7f70ff2bce346d, type: 2}
+    required: 
+    set_true: 
+    set_false: 
+  - choice: <i>Leave without taking anything. </i>
+    dest: {fileID: 11400000, guid: 52619f54d7b237b45a137716def2bffb, type: 2}
+    required: 
+    set_true: 
+    set_false: 
+  - choice: <i>Hide the teddybear anyways. </i>
+    dest: {fileID: 11400000, guid: bd52e6885ef90d24dbcff30a40a4713e, type: 2}
+    required: 
+    set_true: 
+    set_false: 

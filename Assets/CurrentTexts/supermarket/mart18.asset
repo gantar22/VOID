@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
+  m_Name: mart18
+  m_EditorClassIdentifier: 
+  on_enter:
+    m_PersistentCalls:
+      m_Calls: []
+  on_exit:
+    m_PersistentCalls:
+      m_Calls: []
+  spoken:
+  - required: 
+    speaker: 4
+    text: 'You raise your hand, pushing your finger up with it. '
+  - required: 
+    speaker: 3
+    text: '"Wh-what are you doing", comes the obvious question again, but more panicked.'
+  - required: 
+    speaker: 4
+    text: 'You don''t stop raising your hand. The shop-keep starts to scream. Higher
+      and higher, your finger rises, until, just when you think you''ve reached your
+      limit, he drops on to the floor; the shock must have made him faint. '
+  - required: 
+    speaker: 4
+    text: 'Well that was easy, you think as you grab the teddy bear and head out. '
+  choices:
+  - choice: <i>Head back. </i>
+    dest: {fileID: 11400000, guid: 9892de00a009bcb4c8dcc16e57fc87eb, type: 2}
+    required: 
+    set_true: 
+    set_false: 

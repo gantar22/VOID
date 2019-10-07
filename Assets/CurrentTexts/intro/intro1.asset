@@ -15,25 +15,21 @@ MonoBehaviour:
   on_enter:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   on_exit:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   spoken:
   - required: 
     speaker: 0
-    text: this is a line
+    text: FEED US.
   choices:
-  - choice: this restarts the game
-    dest: {fileID: 11400000, guid: 6f4c81f4ffef4a24d9c77fc6ef581451, type: 2}
-    required: 00000000
-    set_true: 
+  - choice: What?
+    dest: {fileID: 11400000, guid: 9f1bde76fcc3fda43ba3f1de348be086, type: 2}
+    required: 
+    set_true: 00000000
     set_false: 
-  - choice: this does nothing
-    dest: {fileID: 11400000}
+  - choice: Leave me alone.
+    dest: {fileID: 11400000, guid: 240215aff3f2c234287388f379c58aed, type: 2}
     required: 
     set_true: 00000000
     set_false: 

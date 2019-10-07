@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e0815ec498e3bf4a9d94343e661f3c2, type: 3}
+  m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
   m_Name: intro8
   m_EditorClassIdentifier: 
   on_enter:
@@ -19,16 +19,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   spoken:
-  - text: FIND IT. WHAT WE NEED.
-  - text: GO. FEED US.
-  choices:
-  - choice: //Head out and search//
-    dest: {fileID: 11400000, guid: deaa0b4d008c2be41ad7008ef5af9737, type: 2}
-    required: 
-    set_true: 
-    set_false: 
-  - choice: I don't want to.
-    dest: {fileID: 11400000, guid: c55bc94a8da1d7a43ad55c4bc07e8da8, type: 2}
-    required: 00000000
-    set_true: 
-    set_false: 
+  - required: 
+    speaker: 1
+    text: THEN ROT.
+  choices: []

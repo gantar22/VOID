@@ -65,9 +65,16 @@ public class DialogueWalker : MonoBehaviour
     {
         StartCoroutine(blitText(startingText));
     }
+
+    public void go_to(CurrentText ct)
+    {
+        StopAllCoroutines();
+        StartCoroutine(blitText(ct));
+    }
     
     IEnumerator blitText(CurrentText currentText)
     {
+        currentText.on_enter.Invoke();
         foreach (Transform t in textHolder.transform)
         {
             Destroy(t.gameObject);
@@ -127,7 +134,7 @@ public class DialogueWalker : MonoBehaviour
             yield return new WaitForSeconds(config.inter_choice_wait_time);
         }
         
-        
+        currentText.on_exit.Invoke();
         yield return null;
     }
 

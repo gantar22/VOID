@@ -5,9 +5,9 @@ using UnityEngine;
 
 
 
-public enum Flag { obeyed, playing0, playing1, playing2 , pull_slot_machine, win_race};
+public enum Flag { obeyed, playing0, playing1, playing2 , pull_slot_machine, knockedchoc, knockeddrink, knockedtuna, choc, drink, tuna, notnose, nose, win_race};
 
-public enum Speaker : int { the_void, player, clerk}
+public enum Speaker : int { the_void, angry_void, player, clerk, narrator}
 
 [System.Serializable]
 public struct Line
@@ -16,7 +16,7 @@ public struct Line
 
     public Speaker speaker;
 
-    [TextArea]
+    [TextArea(2,15)]
     public string text;
 
 }

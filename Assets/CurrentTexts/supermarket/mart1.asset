@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
+  m_Name: mart1
+  m_EditorClassIdentifier: 
+  on_enter:
+    m_PersistentCalls:
+      m_Calls: []
+  on_exit:
+    m_PersistentCalls:
+      m_Calls: []
+  spoken:
+  - required: 
+    speaker: 4
+    text: 'You head to the local supermarket; you''re sure you''ll find what you''re
+      looking for there. '
+  - required: 
+    speaker: 4
+    text: '"Welcome!", the shopkeeper greets you. You ignore him and walk down one
+      of the middle aisles, looking around and weighing your options. '
+  choices:
+  - choice: <i>Check for cameras. </i>
+    dest: {fileID: 11400000, guid: d1d0ae826da47854d9b9e128715eb820, type: 2}
+    required: 
+    set_true: 08000000090000000a0000000b000000
+    set_false: 
+  - choice: <i>Search the aisles. </i>
+    dest: {fileID: 11400000, guid: d27d2056994468d4682e4b87622677fb, type: 2}
+    required: 
+    set_true: 08000000090000000a0000000b000000
+    set_false: 
+  - choice: <i>Leave without taking anything. </i>
+    dest: {fileID: 11400000, guid: 52619f54d7b237b45a137716def2bffb, type: 2}
+    required: 
+    set_true: 08000000090000000a0000000b000000
+    set_false: 

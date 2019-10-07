@@ -9,6 +9,30 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
   m_Name: intro7
   m_EditorClassIdentifier: 
+  on_enter:
+    m_PersistentCalls:
+      m_Calls: []
+  on_exit:
+    m_PersistentCalls:
+      m_Calls: []
+  spoken:
+  - required: 
+    speaker: 1
+    text: "WE STAY. TOGETHER. FOREVER.\r"
+  - required: 
+    speaker: 0
+    text: "\rWILL YOU HURT. YOURSELF?"
+  choices:
+  - choice: No...I'll feed you...
+    dest: {fileID: 11400000, guid: c55bc94a8da1d7a43ad55c4bc07e8da8, type: 2}
+    required: 
+    set_true: 
+    set_false: 00000000
+  - choice: <i> Stand your ground. </i>
+    dest: {fileID: 11400000, guid: b75cd8eb93be29548862a26d7d32e0e2, type: 2}
+    required: 
+    set_true: 
+    set_false: 

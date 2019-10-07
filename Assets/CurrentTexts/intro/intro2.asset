@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e0815ec498e3bf4a9d94343e661f3c2, type: 3}
+  m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
   m_Name: intro2
   m_EditorClassIdentifier: 
   on_enter:
@@ -19,17 +19,20 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   spoken:
-  - text: FEED US.
-  - text: HUNGER. WE HUNGER.
-  - text: ' FEED US.'
+  - required: 
+    speaker: 0
+    text: "NEVER. I WILL NEVER LEAVE. \r"
+  - required: 
+    speaker: 0
+    text: "\rGO. FEED US. "
   choices:
-  - choice: What do you want?
-    dest: {fileID: 11400000, guid: eab5426289b79104e83633af4190e2f5, type: 2}
+  - choice: I won't.
+    dest: {fileID: 11400000, guid: 2ffc1f21853abb74fa14a869f832f9c3, type: 2}
     required: 
     set_true: 
     set_false: 
-  - choice: Leave me alone.
-    dest: {fileID: 11400000, guid: 9f1bde76fcc3fda43ba3f1de348be086, type: 2}
+  - choice: What do you want?
+    dest: {fileID: 11400000, guid: eab5426289b79104e83633af4190e2f5, type: 2}
     required: 
     set_true: 
     set_false: 

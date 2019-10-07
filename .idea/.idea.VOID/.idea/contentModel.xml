@@ -23,6 +23,7 @@
         <e p="deplete.cs" t="Include" />
         <e p="determine_winner.cs" t="Include" />
         <e p="EventHook.cs" t="Include" />
+        <e p="instantiate.cs" t="Include" />
         <e p="move_right.cs" t="Include" />
         <e p="New folder" t="Include">
           <e p="Fonts" t="Include">
