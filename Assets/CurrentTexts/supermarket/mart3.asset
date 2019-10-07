@@ -24,7 +24,7 @@ MonoBehaviour:
     text: You walk out of the store, defeated and empty-handed.
   choices:
   - choice: <i>Head back... </i>
-    dest: {fileID: 11400000, guid: 457ef90dc0c92d44c97ab4f7c0344605, type: 2}
+    dest: {fileID: 11400000, guid: 7997a883c18358d4c8aacacc59fdd602, type: 2}
     required: 
     set_true: 
     set_false: 
