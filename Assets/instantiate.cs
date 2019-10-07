@@ -19,7 +19,7 @@ public class instantiate : MonoBehaviour
     {
         Vector3 vel = Vector3.up - Vector3.right;
         
-        while (Vector3.Distance(g.transform.position,dest.position) > .1f)
+        while (Vector3.Distance(g.transform.position,dest.position) > .25f)
         {
             g.transform.position = Vector3.SmoothDamp(g.transform.position, 
                 dest.position + Vector3.up * Mathf.Sin(Time.time * 3)  * 2, ref vel, 2f);

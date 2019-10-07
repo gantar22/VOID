@@ -124,7 +124,7 @@ public class DialogueWalker : MonoBehaviour
                 {
                     set_state(flag,false);
                 }
-                StartCoroutine(blitText(choice.dest));
+                go_to(choice.dest);
             });
             yield return StartCoroutine(TypewriterText(
                 choice_object.GetComponentInChildren<TMPro.TMP_Text>(), choice.choice,Speaker.player
