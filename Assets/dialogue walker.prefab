@@ -51,9 +51,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spokenPrefab: {fileID: 6590571295002648167, guid: 58f08aee7af49194d98b49b8c5b3bbc6,
     type: 3}
+  spacePrefab: {fileID: 0}
   choicePrefab: {fileID: 2322867777116165751, guid: da0259e25cea03242a06dec483a6e044,
     type: 3}
-  startingText: {fileID: 11400000, guid: 6f4c81f4ffef4a24d9c77fc6ef581451, type: 2}
+  startingText: {fileID: 0}
   textHolder: {fileID: 3889013575267847050}
   config: {fileID: 11400000, guid: 96aaf64e3f006bb419ddadd4fc900df4, type: 2}
   text_sounds:

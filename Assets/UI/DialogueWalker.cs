@@ -17,6 +17,8 @@ public class DialogueWalker : MonoBehaviour
 {
     [SerializeField] private TMPro.TMP_Text spokenPrefab;
 
+    [SerializeField] private TMPro.TMP_Text spacePrefab;
+
     [SerializeField] private Button choicePrefab;
 
     [SerializeField] private CurrentText startingText;
@@ -101,6 +103,8 @@ public class DialogueWalker : MonoBehaviour
             yield return new WaitForSeconds(config.inter_spoken_wait_time);
         }
         yield return  new WaitForSeconds(config.time_between_spoken_and_choices);
+
+        Instantiate(spacePrefab.gameObject, Vector3.zero, Quaternion.identity, textHolder.transform);
 
         foreach (var choice in currentText.choices)
         {
