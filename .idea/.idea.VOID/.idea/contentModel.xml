@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="BoilerPlate" t="Include">
           <e p="EventObject.cs" t="Include" />
+          <e p="FloatRef.cs" t="Include" />
           <e p="Inl.cs" t="Include" />
           <e p="Inr.cs" t="Include" />
           <e p="IntEvent.cs" t="Include" />
@@ -18,7 +19,9 @@
           <e p="UnitEvent.cs" t="Include" />
         </e>
         <e p="CurrentText.cs" t="Include" />
+        <e p="delay_event.cs" t="Include" />
         <e p="deplete.cs" t="Include" />
+        <e p="determine_winner.cs" t="Include" />
         <e p="EventHook.cs" t="Include" />
         <e p="move_right.cs" t="Include" />
         <e p="New folder" t="Include">
@@ -49,8 +52,13 @@
             </e>
           </e>
         </e>
+        <e p="opponent_runner.cs" t="Include" />
+        <e p="player_finish.cs" t="Include" />
         <e p="press_buttons.cs" t="Include" />
+        <e p="race_start.cs" t="Include" />
+        <e p="random_audio.cs" t="Include" />
         <e p="SerializeEvent.cs" t="Include" />
+        <e p="set_normalized_pos.cs" t="Include" />
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
             <e p="LiberationSans - OFL.txt" t="Include" />

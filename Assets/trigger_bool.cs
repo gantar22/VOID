@@ -24,11 +24,16 @@ public class trigger_bool : MonoBehaviour
 
     IEnumerator setunset()
     {
+        if (!enabled)
+            yield break;
+        
         am.SetBool(bool_name,true);
         yield return new WaitForSeconds(effect_time);
         am.SetBool(bool_name,false);
     }
 
+    
+    
     
     
 }

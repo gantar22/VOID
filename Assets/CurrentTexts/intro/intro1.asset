@@ -23,7 +23,8 @@ MonoBehaviour:
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   spoken:
-  - speaker: 0
+  - required: 
+    speaker: 0
     text: this is a line
   choices:
   - choice: this restarts the game
