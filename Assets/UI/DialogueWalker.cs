@@ -125,6 +125,7 @@ public class DialogueWalker : MonoBehaviour
                 {
                     set_state(flag,false);
                 }
+                currentText.on_exit.Invoke();
                 go_to(choice.dest);
             });
             yield return StartCoroutine(TypewriterText(
@@ -135,7 +136,7 @@ public class DialogueWalker : MonoBehaviour
             yield return new WaitForSeconds(config.inter_choice_wait_time);
         }
         
-        currentText.on_exit.Invoke();
+        
         yield return null;
     }
 
