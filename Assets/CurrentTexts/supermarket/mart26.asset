@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
-  m_Name: intro6
+  m_Name: mart26
   m_EditorClassIdentifier: 
   on_enter:
     m_PersistentCalls:
@@ -20,19 +20,16 @@ MonoBehaviour:
       m_Calls: []
   spoken:
   - required: 
-    speaker: 0
-    text: "WE ARE THE SAME. YOU ARE NOTHING. WITHOUT ME.\r"
+    speaker: 4
+    text: "You stuff the bear under both your shirt and your pants. <i>Perfect</i>.
+      You start walking out.\r"
   - required: 
-    speaker: 0
-    text: "\rFEED US. OR ELSE."
+    speaker: 4
+    text: It takes the shop-keep about half a second to notice and tackle you... You
+      wonder what the hell you were thinking as you start to lose consiousness...
   choices:
-  - choice: Alright...
-    dest: {fileID: 11400000, guid: c55bc94a8da1d7a43ad55c4bc07e8da8, type: 2}
-    required: 
-    set_true: 
-    set_false: 00000000
-  - choice: Or else what?
-    dest: {fileID: 11400000, guid: 0d83156c4499c774c81b3bf6f7c2aa68, type: 2}
+  - choice: <i>Head back... </i>
+    dest: {fileID: 11400000, guid: 457ef90dc0c92d44c97ab4f7c0344605, type: 2}
     required: 
     set_true: 
     set_false: 

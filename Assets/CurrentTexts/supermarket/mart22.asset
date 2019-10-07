@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
+  m_Name: mart22
+  m_EditorClassIdentifier: 
+  on_enter:
+    m_PersistentCalls:
+      m_Calls: []
+  on_exit:
+    m_PersistentCalls:
+      m_Calls: []
+  spoken:
+  - required: 
+    speaker: 4
+    text: 'The shop-keep hurries towards the aisle you mentioned. Before you can even
+      grab the bear, though, he comes back. "What are you talking about? There was
+      nothing." '
+  - required: 
+    speaker: 4
+    text: Drats. Now what?
+  choices:
+  - choice: <i>Knock out the shop-keep. </i>
+    dest: {fileID: 11400000, guid: 9797e09f3a6c64341920b6677c02638d, type: 2}
+    required: 
+    set_true: 
+    set_false: 
+  - choice: <i>Knock over a display. </i>
+    dest: {fileID: 11400000, guid: 8c437698a0ced1b42a83260bdd84ae7d, type: 2}
+    required: 
+    set_true: 
+    set_false: 
+  - choice: <i>Talk to the shop-keep. </i>
+    dest: {fileID: 11400000, guid: 05706491e5ae98a4fa7f70ff2bce346d, type: 2}
+    required: 
+    set_true: 
+    set_false: 
+  - choice: <i>Leave without taking anything. </i>
+    dest: {fileID: 11400000, guid: 52619f54d7b237b45a137716def2bffb, type: 2}
+    required: 
+    set_true: 
+    set_false: 
+  - choice: <i>Hide the teddybear. </i>
+    dest: {fileID: 11400000, guid: 4154a75d5ecde1b4aaac7c3c2a70a11e, type: 2}
+    required: 
+    set_true: 
+    set_false: 

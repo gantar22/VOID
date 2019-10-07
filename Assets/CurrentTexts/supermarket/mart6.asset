@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
+  m_Name: mart6
+  m_EditorClassIdentifier: 
+  on_enter:
+    m_PersistentCalls:
+      m_Calls: []
+  on_exit:
+    m_PersistentCalls:
+      m_Calls: []
+  spoken:
+  - required: 
+    speaker: 4
+    text: Which one should you knock over?
+  choices:
+  - choice: <i>Knock over the chocolate. </i>
+    dest: {fileID: 11400000, guid: 2429d6907b10cec48a2819cbb414c4f2, type: 2}
+    required: 08000000
+    set_true: 05000000
+    set_false: 08000000
+  - choice: <i>Knock over the chocolate. </i>
+    dest: {fileID: 11400000, guid: d010ab020166f914d8f548cc254d617d, type: 2}
+    required: 05000000
+    set_true: 
+    set_false: 
+  - choice: <i>Knock over the drinks. </i>
+    dest: {fileID: 11400000, guid: edbada816cbc4654bb74d9930610da37, type: 2}
+    required: 09000000
+    set_true: 06000000
+    set_false: 09000000
+  - choice: <i>Knock over the drinks. </i>
+    dest: {fileID: 11400000, guid: d010ab020166f914d8f548cc254d617d, type: 2}
+    required: 06000000
+    set_true: 
+    set_false: 
+  - choice: <i>Knock over the tuna. </i>
+    dest: {fileID: 11400000, guid: 8fa06601d47a9bf42b54ff16986bb5e6, type: 2}
+    required: 0a000000
+    set_true: 07000000
+    set_false: 0a000000
+  - choice: <i>Knock over the tuna.</i>
+    dest: {fileID: 11400000, guid: d010ab020166f914d8f548cc254d617d, type: 2}
+    required: 07000000
+    set_true: 
+    set_false: 
+  - choice: <i>Knock over nothing. </i>
+    dest: {fileID: 11400000, guid: f898b78c2d0653149a1b8e70fdbf07fa, type: 2}
+    required: 
+    set_true: 
+    set_false: 

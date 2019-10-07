@@ -260,8 +260,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!114 &205007375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -289,8 +287,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!1 &361865686
 GameObject:
   m_ObjectHideFlags: 0
@@ -810,8 +806,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!114 &772762806
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -839,8 +833,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!4 &772762807
 Transform:
   m_ObjectHideFlags: 0
@@ -901,8 +893,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!114 &797083294
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -930,8 +920,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!4 &797083295
 Transform:
   m_ObjectHideFlags: 0
@@ -1811,8 +1799,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!114 &1888666202
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1887,8 +1873,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!114 &1931019713
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2020,7 +2004,7 @@ MonoBehaviour:
     type: 3}
   choicePrefab: {fileID: 2322867777116165751, guid: da0259e25cea03242a06dec483a6e044,
     type: 3}
-  startingText: {fileID: 11400000, guid: 6f4c81f4ffef4a24d9c77fc6ef581451, type: 2}
+  startingText: {fileID: 11400000, guid: 0bbfee8840c910d419f751b37ae2ffa4, type: 2}
   textHolder: {fileID: 361865688}
   config: {fileID: 11400000, guid: 96aaf64e3f006bb419ddadd4fc900df4, type: 2}
   text_sounds:

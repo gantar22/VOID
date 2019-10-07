@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1dfbb5f8620505148ad20d652a436706, type: 3}
-  m_Name: intro6
+  m_Name: mart16
   m_EditorClassIdentifier: 
   on_enter:
     m_PersistentCalls:
@@ -20,19 +20,20 @@ MonoBehaviour:
       m_Calls: []
   spoken:
   - required: 
-    speaker: 0
-    text: "WE ARE THE SAME. YOU ARE NOTHING. WITHOUT ME.\r"
+    speaker: 4
+    text: 'You don''t know why, but you suddenly decide to ram your fingers up the
+      shop-keep''s nose. There''s an uncomfortably long silence. '
   - required: 
-    speaker: 0
-    text: "\rFEED US. OR ELSE."
+    speaker: 3
+    text: '"What...are you doing?", comes the obvious question.'
   choices:
-  - choice: Alright...
-    dest: {fileID: 11400000, guid: c55bc94a8da1d7a43ad55c4bc07e8da8, type: 2}
+  - choice: <i>Remove your finger and apologize. </i>
+    dest: {fileID: 11400000, guid: 16401d0c138c833428c799d7688352f5, type: 2}
     required: 
     set_true: 
-    set_false: 00000000
-  - choice: Or else what?
-    dest: {fileID: 11400000, guid: 0d83156c4499c774c81b3bf6f7c2aa68, type: 2}
+    set_false: 
+  - choice: <i>Push it in higher. </i>
+    dest: {fileID: 11400000, guid: d157b01c167292c4d90b9d775f72db42, type: 2}
     required: 
     set_true: 
     set_false: 
